@@ -1,0 +1,1827 @@
+{
+  "version": "2.0.0",
+  "profile": {
+    "name": "CAO NGUYỄN NHẬT TRIỀU",
+    "titleEn": "Professional Executive Profile | Strategy, Tech & AI Consultant",
+    "titleVi": "Hồ Sơ Năng Lực Chuyên Gia | Chiến Lược, Công Nghệ & AI",
+    "avatarUrl": "/images/profile/GRU02101.JPG?v=4",
+    "activePhotoId": "photo-01",
+    "personalPortraits": [
+      {
+        "id": "photo-01",
+        "filename": "GRU02101.JPG",
+        "url": "/images/profile/GRU02101.JPG?v=4",
+        "fallbackUrl": "/images/profile/GRU02101.JPG?v=4",
+        "titleVi": "Chân dung Trực diện Doanh nhân (GRU02101)",
+        "titleEn": "Executive Frontal Studio Portrait (GRU02101)",
+        "poseVi": "Tư thế trực diện đĩnh đạc, vest đen chỉn chu, cà vạt đỏ, phong thái chuyên gia chiến lược & AI",
+        "poseEn": "Formal frontal executive portrait, tailored black business suit, crimson red tie, modern glasses",
+        "descriptionVi": "Hình ảnh chân dung chính thức của ông Cao Nguyễn Nhật Triều chụp tại studio chuyên nghiệp. Phù hợp cho hồ sơ điều hành, diễn giả hội nghị quốc tế và đại diện phát ngôn thương hiệu.",
+        "descriptionEn": "Official executive portrait of Mr. Cao Nguyễn Nhật Triều taken in professional studio lighting. Suitable for corporate governance, keynote speaking, and brand representation.",
+        "badgeVi": "Chính thức / Mặc định",
+        "badgeEn": "Official / Default",
+        "isDefault": true
+      },
+      {
+        "id": "photo-02",
+        "filename": "GRU02108.JPG",
+        "url": "/images/profile/GRU02108.JPG?v=4",
+        "fallbackUrl": "/images/profile/GRU02108.JPG?v=4",
+        "titleVi": "Tác phong Lãnh đạo & Khởi xướng Chiến lược (GRU02108)",
+        "titleEn": "Leadership Action & Strategic Poise (GRU02108)",
+        "poseVi": "Tác phong chuẩn mực, tay chỉnh khuy áo vest, ánh mắt kiên định sẵn sàng dẫn dắt đổi mới",
+        "poseEn": "Authoritative dynamic stance adjusting suit jacket, prepared to lead and drive operational transformation",
+        "descriptionVi": "Ghi lại khoảnh khắc tác phong điều hành chuẩn mực, thể hiện tinh thần sẵn sàng dấn thân giải quyết các bài toán chiến lược, mở rộng kênh phân phối và tái cấu trúc tổ chức.",
+        "descriptionEn": "Capturing dynamic executive readiness, embodying commitment to tackling strategic challenges, scaling sales channels, and executing organizational restructuring.",
+        "badgeVi": "Lãnh đạo & Điều hành",
+        "badgeEn": "Leadership & Execution"
+      },
+      {
+        "id": "photo-03",
+        "filename": "GRU02112.JPG",
+        "url": "/images/profile/GRU02112.JPG?v=4",
+        "fallbackUrl": "/images/profile/GRU02112.JPG?v=4",
+        "titleVi": "Chân dung Trực diện Đĩnh đạc & Bản lĩnh (GRU02112)",
+        "titleEn": "Distinguished Executive Frontal Portrait (GRU02112)",
+        "poseVi": "Tư thế đứng thẳng đĩnh đạc, ánh nhìn tự tin, thần thái chuyên gia hoạch định chiến lược và công nghệ",
+        "poseEn": "Poised upright posture, confident gaze, reflecting seasoned strategic and technological executive presence",
+        "descriptionVi": "Thể hiện phong thái đĩnh đạc, bản lĩnh và tư duy độc lập của chuyên gia cấp cao trong các dự án quy mô lớn, tái cấu trúc vận hành và ứng dụng công nghệ chuyên sâu.",
+        "descriptionEn": "Reflecting distinguished composure, strategic fortitude, and executive acumen across large-scale enterprise transformation and technological implementations.",
+        "badgeVi": "Chiến lược & Bản lĩnh",
+        "badgeEn": "Strategy & Leadership"
+      },
+      {
+        "id": "photo-04",
+        "filename": "GRU02116.JPG",
+        "url": "/images/profile/GRU02116.JPG?v=4",
+        "fallbackUrl": "/images/profile/GRU02116.JPG?v=4",
+        "titleVi": "Góc nghiêng 3/4 - Nụ cười Cố vấn & Hợp tác (GRU02116)",
+        "titleEn": "3/4 Perspective - Collaborative & Advisory Smile (GRU02116)",
+        "poseVi": "Góc nghiêng 3/4 thân thiện, nụ cười tự tin, phong thái đối thoại và đồng hành cùng doanh nghiệp",
+        "poseEn": "Approachable 3/4 profile with confident smile, radiating collaboration and mentorship poise",
+        "descriptionVi": "Thể hiện phong thái cởi mở, lắng nghe và nhiệt huyết trong các chương trình cố vấn chuyển đổi số SME, huấn luyện AI thực chiến cho trường học và kết nối mạng lưới đối tác.",
+        "descriptionEn": "Reflecting an open, receptive, and inspiring presence across SME digital transformation consulting, AI coaching programs, and strategic partnerships.",
+        "badgeVi": "Cố vấn & Đào tạo",
+        "badgeEn": "Advisory & Coaching"
+      }
+    ],
+    "summaryEn": "Professional with over 15 years of experience in strategy, commercial operations, technology-oriented business development, and digital transformation across finance, insurance, e-commerce, and related sectors, including more than 7 years of business consulting for SMEs. Background includes distribution strategy execution, sales team formation, and business development across B2B, B2C, and C2C contexts. Current focus includes AI consulting, AI training, and coaching programs for schools and enterprises to improve productivity and organizational capabilities.",
+    "summaryVi": "Chuyên gia với hơn 15 năm kinh nghiệm về chiến lược, vận hành thương mại, phát triển kinh doanh công nghệ và chuyển đổi số trong lĩnh vực tài chính, bảo hiểm, TMĐT... bao gồm 7+ năm tư vấn cho SME. Giàu kinh nghiệm trong thực thi chiến lược phân phối, xây dựng đội ngũ bán hàng và phát triển B2B, B2C, C2C. Trọng tâm hiện tại bao gồm tư vấn, đào tạo và huấn luyện AI cho trường học và doanh nghiệp nhằm nâng cao hiệu suất và năng lực tổ chức.",
+    "contact": {
+      "locationEn": "Ho Chi Minh City, Vietnam",
+      "locationVi": "TP. Hồ Chí Minh, Việt Nam",
+      "phone": "0983.440.188",
+      "email": "trieucnn@gmail.com",
+      "linkedin": "https://vn.linkedin.com/in/alexvnn295",
+      "github": "https://github.com/Alexvnn295"
+    },
+    "metrics": [
+      {
+        "value": "15+ Years",
+        "labelEn": "Commercial Strategy Ops",
+        "labelVi": "Vận hành Chiến lược",
+        "subLabelEn": "Strategy & Operations",
+        "subLabelVi": "Chiến lược & Vận hành"
+      },
+      {
+        "value": "7+ Years",
+        "labelEn": "SME Business Consulting",
+        "labelVi": "Tư vấn Doanh nghiệp SME",
+        "subLabelEn": "Advisory & Restructuring",
+        "subLabelVi": "Cố vấn & Tái cấu trúc"
+      },
+      {
+        "value": "Multi-Sector",
+        "labelEn": "Finance, Technology, Business & AI",
+        "labelVi": "Tài chính, Công nghệ, Kinh doanh & AI",
+        "subLabelEn": "Tech Transformation",
+        "subLabelVi": "Chuyển đổi số & Công nghệ"
+      }
+    ],
+    "coreCompetencies": [
+      {
+        "titleEn": "Strategic Planning & Business Consulting",
+        "titleVi": "Hoạch định Chiến lược & Tư vấn Doanh nghiệp",
+        "descEn": "Architecting growth roadmaps, business model innovation, and restructuring for SMEs and corporate enterprises.",
+        "descVi": "Hoạch định lộ trình tăng trưởng, đổi mới mô hình kinh doanh và tái cấu trúc cho khối SME và doanh nghiệp."
+      },
+      {
+        "titleEn": "Distribution Strategy (Financial & Retail)",
+        "titleVi": "Chiến lược Phân phối (Tài chính & Bán lẻ)",
+        "descEn": "Designing multi-tier omnichannel distribution systems, branch networks, and financial service kiosks.",
+        "descVi": "Thiết lập mạng lưới phân phối đa kênh, hệ thống chi nhánh và giải pháp kiosk tài chính công nghệ cao."
+      },
+      {
+        "titleEn": "Sales Team Formation & Leadership",
+        "titleVi": "Xây dựng & Lãnh đạo Đội ngũ Bán hàng",
+        "descEn": "Building high-performance sales forces, KPI governance frameworks, and P&L accountability structures.",
+        "descVi": "Xây dựng đội ngũ kinh doanh tinh nhuệ, thiết lập khung quản trị KPI và quản lý trách nhiệm P&L."
+      },
+      {
+        "titleEn": "B2B, B2C, and C2C Business Development",
+        "titleVi": "Phát triển Kinh doanh B2B, B2C, C2C",
+        "descEn": "Expanding cross-platform customer acquisition funnels, corporate partnerships, and campus solutions.",
+        "descVi": "Mở rộng phễu khách hàng đa kênh, kết nối đối tác doanh nghiệp và giải pháp thanh toán trường học/y tế."
+      },
+      {
+        "titleEn": "AI Training & Coaching for Schools and Enterprises",
+        "titleVi": "Đào tạo & Huấn luyện AI cho Trường học & Doanh nghiệp",
+        "descEn": "Delivering applied Generative AI, custom AI Agents, and productivity automation for managers and teams.",
+        "descVi": "Chuyển giao ứng dụng AI Tạo sinh, xây dựng AI Agent và tự động hóa quy trình nâng cao hiệu suất làm việc."
+      }
+    ],
+    "education": [
+      {
+        "degreeEn": "PhD Research Candidate (In Progress)",
+        "degreeVi": "Nghiên cứu sinh Tiến sĩ (Đang thực hiện)",
+        "institutionEn": "Doctoral Research Program",
+        "institutionVi": "Chương trình Nghiên cứu sinh Tiến sĩ",
+        "noteEn": "Currently pursuing doctoral research in economics & business management",
+        "noteVi": "Đang thực hiện nghiên cứu chuyên sâu về kinh tế và quản trị"
+      },
+      {
+        "degreeEn": "MBA (Master of Business Administration)",
+        "degreeVi": "Thạc sĩ Quản trị Kinh doanh (MBA)",
+        "institutionEn": "Ho Chi Minh City University of Technology (HUTECH)",
+        "institutionVi": "Trường Đại học Kỹ thuật Công nghệ TP.HCM",
+        "noteEn": "Strategic Management & Operations",
+        "noteVi": "Quản trị Chiến lược & Vận hành Doanh nghiệp"
+      },
+      {
+        "degreeEn": "Postgraduate Diploma in Business Management",
+        "degreeVi": "Chứng chỉ Sau Đại học về Quản trị Kinh doanh",
+        "institutionEn": "Kingston International College, Singapore",
+        "institutionVi": "Học viện Kingston International, Singapore",
+        "noteEn": "International Trade & Business Management",
+        "noteVi": "Thương mại Quốc tế & Quản trị Toàn cầu"
+      },
+      {
+        "degreeEn": "B.A. in Law",
+        "degreeVi": "Cử nhân Luật",
+        "institutionEn": "University of Economics and Law, VNU HCM",
+        "institutionVi": "Trường Đại học Kinh tế - Luật, ĐHQG TP.HCM",
+        "noteEn": "Corporate Law, Regulatory Frameworks & Governance",
+        "noteVi": "Luật Doanh nghiệp, Khung Pháp lý & Quản trị"
+      },
+      {
+        "degreeEn": "B.A. in Economics",
+        "degreeVi": "Cử nhân Kinh tế",
+        "institutionEn": "University of Economics and Law, VNU HCM",
+        "institutionVi": "Trường Đại học Kinh tế - Luật, ĐHQG TP.HCM",
+        "noteEn": "Macroeconomics, Market Dynamics & Quantitative Analysis",
+        "noteVi": "Kinh tế Vĩ mô, Phân tích Thị trường & Định lượng"
+      }
+    ],
+    "certifications": [
+      {
+        "titleEn": "Marketing & Digital",
+        "titleVi": "Tiếp thị & Kỹ thuật số",
+        "iconType": "marketing",
+        "items": [
+          "Google Digital Marketing & E-commerce",
+          "Design Thinking: Venture Design",
+          "Digital Transformation Masterclass"
+        ]
+      },
+      {
+        "titleEn": "Management & Project",
+        "titleVi": "Quản lý & Dự án",
+        "iconType": "management",
+        "items": [
+          "CEO – The Professional Chief Executive Officer",
+          "Google Project Management / P.M. Foundations",
+          "Implementing Supply Chain Management"
+        ]
+      },
+      {
+        "titleEn": "HR & Training",
+        "titleVi": "Nhân sự & Đào tạo",
+        "iconType": "hr",
+        "items": [
+          "Train the Trainer (Giảng viên Chuyên nghiệp)",
+          "Strategic Human Resources",
+          "Prep Professional in Human Resources (PHR)"
+        ]
+      },
+      {
+        "titleEn": "Languages & IT / AI Tools",
+        "titleVi": "Ngôn ngữ & Công cụ CNTT / AI",
+        "iconType": "tech",
+        "items": [
+          "English: TOEFL iBT 87, BEC II (Business English Certificate)",
+          "Software & AI Tools: Generative AI tools, prompt engineering, AI productivity and automation tools, Visual Basic"
+        ]
+      }
+    ],
+    "fullTimeExperience": [
+      {
+        "id": "coo-nhatrang-hitech",
+        "role": "Chief Operating Officer (COO)",
+        "roleVi": "Giám đốc Vận hành (COO)",
+        "company": "Nha Trang Hitech Ltd",
+        "period": "04/2025 – Present",
+        "type": "full-time",
+        "pointsEn": [
+          "Lead day-to-day operations and cross-functional execution to support strategic growth priorities.",
+          "Coordinate business development, partnership implementation, internal operations, and performance tracking.",
+          "Support the commercialization and operational deployment of technology-driven products and solutions."
+        ],
+        "pointsVi": [
+          "Điều hành hoạt động hàng ngày và thực thi đa nhiệm hỗ trợ các ưu tiên tăng trưởng chiến lược.",
+          "Điều phối phát triển kinh doanh, triển khai đối tác, vận hành nội bộ và theo dõi hiệu suất.",
+          "Hỗ trợ thương mại hóa và triển khai vận hành các sản phẩm/giải pháp định hướng công nghệ."
+        ],
+        "highlight": {
+          "en": "Media & Technology Commercialization: Featured in an interview on Ho Chi Minh City Television (HTV) on \"Promoting Technology Businesses to Commercialize Products\", bridging R&D to market.",
+          "vi": "Dấu ấn Truyền thông & Thương mại hóa: Được Đài Truyền hình TP.HCM (HTV) phỏng vấn và đưa tin về chiến lược \"Thúc đẩy doanh nghiệp công nghệ thương mại hóa sản phẩm\", đưa kết quả nghiên cứu R&D ra thị trường thực tiễn."
+        }
+      },
+      {
+        "id": "pmo-hdbank",
+        "role": "PMO & Region Sale Manager",
+        "roleVi": "Quản lý Dự án (PMO) & Quản lý Kinh doanh Vùng",
+        "company": "HD Bank – Partnership and Employee Banking",
+        "period": "10/2024 – Present",
+        "type": "full-time",
+        "pointsEn": [
+          "Lead regional business development in Southeast & Central Highlands (healthcare digital transformation, education, connectivity).",
+          "Manage national PMO operations: project timeline, quality governance, risk mitigation, and cross-departmental coordination with hospitals and government stakeholders.",
+          "Implement Smart Healthcare Kiosk systems and cashless medical fee collection models across major hospital networks."
+        ],
+        "pointsVi": [
+          "Dẫn dắt phát triển kinh doanh khu vực Đông Nam Bộ & Tây Nguyên (chuyển đổi số y tế, giáo dục, giải pháp kết nối).",
+          "Quản lý PMO dự án cấp quốc gia: kiểm soát tiến độ, quản trị chất lượng, giảm thiểu rủi ro và phối hợp liên ngành cùng các bệnh viện, sở y tế.",
+          "Triển khai hệ thống Kiosk Y tế Thông minh và giải pháp thanh toán viện phí không tiền mặt tại các bệnh viện tuyến đầu."
+        ],
+        "highlight": {
+          "en": "National Digital Transformation Highlight: Deployed 1,001+ Smart Healthcare Kiosks nationwide (Government Scheme 06) and integrated Edupay / Smart Campus solutions. Featured on the Government Portal (BaoChinhPhu.vn).",
+          "vi": "Thành tựu Chuyển đổi số Trọng điểm: Tham gia triển khai 1.001+ Kiosk Y tế Thông minh toàn quốc (Đề án 06) nâng cao trải nghiệm khám chữa bệnh cho người dân & tích hợp Edupay / Smart Campus. Được đưa tin chính thức trên Báo Điện tử Chính phủ."
+        }
+      },
+      {
+        "id": "techcombank-tca",
+        "role": "Head of Representative Office / Territory Development",
+        "roleVi": "Trưởng VPĐD / Phát triển Thị trường",
+        "company": "Techcombank – TC Advisors Corp",
+        "period": "12/2014 – 02/2024",
+        "type": "full-time",
+        "pointsEn": [
+          "Built and scaled a nationwide financial network across 63 provinces and cities with nearly 100 official representative offices.",
+          "Deployed hundreds of customer claim support centers across Vietnam to protect and serve policyholders.",
+          "Held full P&L KPI accountability across multi-tier sales channels, integrating online and offline cross-platform operations.",
+          "Directed strategic distribution agreements with major institutional partners (PVI Insurance, Techcombank ecosystem)."
+        ],
+        "pointsVi": [
+          "Phát triển mạng lưới rộng khắp 63 tỉnh thành trên toàn quốc với gần 100 văn phòng đại diện chính thức.",
+          "Triển khai hàng trăm trung tâm hỗ trợ bồi thường nhằm phục vụ và bảo vệ quyền lợi tối đa cho khách hàng.",
+          "Chịu trách nhiệm toàn diện P&L KPI các kênh kinh doanh, mở rộng đa nền tảng Online & Offline.",
+          "Điều phối các thỏa thuận hợp tác phân phối chiến lược với các đối tác định chế lớn (Bảo hiểm PVI, Techcombank)."
+        ]
+      },
+      {
+        "id": "hr-vinh-nam",
+        "role": "HR Manager",
+        "roleVi": "Trưởng phòng Nhân sự",
+        "company": "VINH NAM J.S.C",
+        "period": "07/2013 – 11/2014",
+        "type": "full-time",
+        "pointsEn": [
+          "Managed recruitment, C&B, administration, and ISO/5S standardization projects."
+        ],
+        "pointsVi": [
+          "Quản lý tuyển dụng, chế độ đãi ngộ (C&B), hành chính và các dự án chuẩn hóa ISO/5S."
+        ]
+      },
+      {
+        "id": "kumho-tires",
+        "role": "Asst. of HR-GA Director",
+        "roleVi": "Trợ lý Giám đốc Nhân sự & Hành chính",
+        "company": "Kumho Tires Vietnam",
+        "period": "03/2012 – 07/2013",
+        "type": "full-time",
+        "pointsEn": [
+          "Supported HR operations for 1,500 employees via enterprise SAP/HRM system."
+        ],
+        "pointsVi": [
+          "Hỗ trợ quản trị nhân sự cho 1.500 nhân viên thông qua hệ thống quản lý tích hợp SAP/HRM."
+        ]
+      },
+      {
+        "id": "nhabe-corp",
+        "role": "Mgr. of Labor Organization Dept.",
+        "roleVi": "Trưởng phòng Tổ chức Lao động",
+        "company": "Nhabe Corp – APIC & Tam Quan",
+        "period": "10/2010 – 02/2012",
+        "type": "full-time",
+        "pointsEn": [
+          "Directed HR operations for 3,500+ staff across 3 factories.",
+          "Managed salary, bonus, compensation structures, and audited international ILO workplace standards."
+        ],
+        "pointsVi": [
+          "Điều hành nhân sự cho hơn 3.500 nhân viên tại 3 nhà máy sản xuất.",
+          "Quản lý lương thưởng và đánh giá tiêu chuẩn an toàn lao động quốc tế ILO."
+        ]
+      }
+    ],
+    "projectExperience": [
+      {
+        "id": "proj-nt-hitech",
+        "role": "Strategic Partnership Director",
+        "roleVi": "Giám đốc Đối tác Chiến lược",
+        "company": "Nha Trang Hitech Ltd",
+        "period": "2014 – Present",
+        "type": "project",
+        "pointsEn": [
+          "Identify and nurture strategic R&D/Tech partnerships with international tech leaders (KDDI, Sato, Airquays, CCJ)."
+        ],
+        "pointsVi": [
+          "Phát triển đối tác chiến lược R&D và chuyển giao công nghệ với các tập đoàn quốc tế (KDDI, Sato, Airquays, CCJ)."
+        ]
+      },
+      {
+        "id": "proj-h2y",
+        "role": "Strategic Advisor",
+        "roleVi": "Cố vấn Chiến lược",
+        "company": "H2Y Intl Trading JSC",
+        "period": "2022 – 2023",
+        "type": "project",
+        "pointsEn": [
+          "Implemented modern business models and HR execution strategies for cross-border operations."
+        ],
+        "pointsVi": [
+          "Triển khai mô hình kinh doanh và chiến lược phát triển nhân sự thương mại quốc tế."
+        ]
+      },
+      {
+        "id": "proj-abodos",
+        "role": "Manager of Project Development",
+        "roleVi": "Quản lý Phát triển Dự án",
+        "company": "ABODOS J.S.C",
+        "period": "02/2022 – 10/2022",
+        "type": "project",
+        "pointsEn": [
+          "Established strategic partner connections in real estate, blockchain/crypto, and premium tourism."
+        ],
+        "pointsVi": [
+          "Xây dựng kết nối đối tác chiến lược trong các lĩnh vực bất động sản, công nghệ crypto và du lịch."
+        ]
+      },
+      {
+        "id": "proj-lecturer",
+        "role": "Strategy Consultant / Lecturer",
+        "roleVi": "Chuyên gia Tư vấn Chiến lược / Giảng viên",
+        "company": "TA Design, UPK, Olympus | Affiliated Projects",
+        "period": "Affiliated Projects",
+        "type": "project",
+        "pointsEn": [
+          "Developed organizational projects including tailored training programs, competency modeling, and executive recruitment."
+        ],
+        "pointsVi": [
+          "Phát triển dự án, đào tạo và tuyển dụng theo nhu cầu đặc thù của doanh nghiệp."
+        ]
+      }
+    ],
+    "aiRecognition": {
+      "awardEn": "Recognized in TOP Qualcomm Challenges 2026",
+      "awardVi": "Nằm trong TOP Qualcomm Challenges 2026",
+      "awardDescEn": "Recognized for exceptional capability in AI innovation, applied problem-solving, and technology-driven solution development.",
+      "awardDescVi": "Khẳng định năng lực đổi mới sáng tạo, giải quyết bài toán thực tiễn và phát triển giải pháp ứng dụng Trí tuệ Nhân tạo.",
+      "coachingScopeEn": "Design and deliver structured AI training and coaching programs for schools and enterprises to maximize operational efficiency.",
+      "coachingScopeVi": "Thiết kế & triển khai các chương trình đào tạo AI thực tiễn cho trường học và doanh nghiệp nhằm tối ưu hóa hiệu suất làm việc.",
+      "focusTopicsEn": [
+        "Generative AI applications in business & education",
+        "Prompt design and conversational intelligence",
+        "AI-assisted productivity and cognitive augmentation",
+        "Workflow automation and autonomous AI Agents"
+      ],
+      "focusTopicsVi": [
+        "Ứng dụng AI Tạo sinh trong doanh nghiệp và trường học",
+        "Thiết kế Prompt và kỹ thuật tương tác AI chuyên sâu",
+        "Tăng hiệu suất làm việc với công cụ AI thông minh",
+        "Tự động hóa quy trình nghiệp vụ và triển khai AI Agent"
+      ],
+      "keyCourses": [
+        {
+          "titleEn": "AI Foundations for Schools and Enterprises",
+          "titleVi": "AI Nền tảng cho Trường học & Doanh nghiệp"
+        },
+        {
+          "titleEn": "Generative AI for Managers and Team Leaders",
+          "titleVi": "AI Tạo sinh cho Quản lý & Trưởng nhóm"
+        },
+        {
+          "titleEn": "AI Productivity and Automation for Office Teams",
+          "titleVi": "Tự động hóa & Tăng hiệu suất cho Khối văn phòng"
+        }
+      ],
+      "deliveredPrograms": [
+        {
+          "titleEn": "AI Agent Training for Managers in Packaging Manufacturing",
+          "titleVi": "Đào tạo AI Agent cho Quản lý Sản xuất Bao bì",
+          "year": "2025"
+        },
+        {
+          "titleEn": "AI Training for Financial/Sales Systems in Supporting Industries",
+          "titleVi": "Đào tạo AI hệ thống Tài chính & Sales trong Công nghiệp hỗ trợ",
+          "year": "2025"
+        }
+      ]
+    },
+    "digitalTransformationAchievements": [
+      {
+        "id": "dt-htv-tech-commercialization",
+        "categoryEn": "Technology Commercialization & Media",
+        "categoryVi": "Thương Mại Hóa Công Nghệ & Truyền Thông",
+        "titleEn": "HTV Television: Promoting Technology Businesses to Commercialize Products",
+        "titleVi": "Đài Truyền hình HTV: Thúc đẩy doanh nghiệp công nghệ thương mại hóa sản phẩm",
+        "summaryEn": "Featured in an in-depth interview on Ho Chi Minh City Television (HTV) discussing solutions to promote technology businesses in commercializing products. Emphasized the strategic advantages of Ho Chi Minh City with its young, dynamic demographic and status as a leading science and technology center, providing a solid foundation for tech enterprises to take products from R&D laboratories to domestic and global markets.",
+        "summaryVi": "Ông Cao Nguyễn Nhật Triều (Giám đốc điều hành Công ty TNHH MTV Công Nghệ Cao Nha Trang) có trao đổi chuyên sâu trên sóng Đài Phát thanh và Truyền hình TP.HCM (HTV) về giải pháp \"Thúc đẩy doanh nghiệp công nghệ thương mại hóa sản phẩm\". Nhấn mạnh lợi thế vượt trội của TP.HCM với dân số trẻ, năng động và là trung tâm khoa học công nghệ lớn, tạo nền tảng vững chắc để các doanh nghiệp đưa kết quả nghiên cứu từ phòng R&D ra thị trường thực tiễn và vươn tầm quốc tế.",
+        "highlightsEn": [
+          "Featured in an exclusive interview on Ho Chi Minh City Television (HTV)",
+          "Strategic insights on bridging R&D research into viable commercialized high-tech products",
+          "Leveraging HCMC young, energetic workforce and thriving sci-tech innovation ecosystem",
+          "Aligning with municipal goals to achieve 8-10% technology commercialization rate by 2030"
+        ],
+        "highlightsVi": [
+          "Được Đài Phát thanh và Truyền hình TP.HCM (HTV) phỏng vấn và đưa tin chính thức",
+          "Hiến kế giải pháp đưa sản phẩm công nghệ từ phòng nghiên cứu (R&D) ra thương trường thực tế",
+          "Khẳng định lợi thế trung tâm công nghệ và nguồn nhân lực trẻ, năng động của TP. Hồ Chí Minh",
+          "Đồng hành cùng mục tiêu phát triển hệ sinh thái đổi mới sáng tạo và nâng cao tỷ lệ thương mại hóa công nghệ"
+        ],
+        "articleUrl": "https://htv.vn/thuc-day-doanh-nghiep-cong-nghe-thuong-mai-hoa-san-pham-22226090516104883.htm",
+        "videoUrl": "https://www.youtube.com/watch?si=UJ3MoshsIuSK-RwE&v=y-_DxX8pUFQ&feature=youtu.be",
+        "pressSource": "Đài Truyền hình HTV",
+        "pressTitle": "Thúc đẩy doanh nghiệp công nghệ thương mại hóa sản phẩm",
+        "year": "2026",
+        "badge": "Đài Truyền Hình HTV"
+      },
+      {
+        "id": "dt-urban-development-law",
+        "categoryEn": "Urban Policy & Tech Commercialization",
+        "categoryVi": "Chính Sách Đô Thị & Thương Mại Hóa Công Nghệ",
+        "titleEn": "Urban Development Law Program: Expert Contributions to Sci-Tech & Controlled Sandboxes",
+        "titleVi": "Chương trình Luật Phát Triển Đô Thị: Đóng góp ý kiến & Hiến kế thương mại hóa công nghệ",
+        "summaryEn": "Featured speaker and expert contributor in the televised program discussing the Urban Development Law (Luật Phát Triển Đô Thị - segment from 11:00). Cao Nguyen Nhat Trieu (COO of Nha Trang Hitech) articulated key perspectives of the tech business community on the transformative potential of the law, highlighting Clause 5, Article 29 on sci-tech innovation, controlled regulatory sandboxes, and strategic incentives. Emphasized turning HCMC and Vietnam into a premier hub for commercializing advanced technology products from R&D into real urban life.",
+        "summaryVi": "Khách mời chuyên gia tham gia đóng góp ý kiến trong chương trình phát sóng chuyên sâu về \"Luật Phát Triển Đô Thị\" (xuất hiện đóng góp từ phút thứ 11:00). Ông Cao Nguyễn Nhật Triều (Giám đốc điều hành Công ty TNHH MTV Công Nghệ Cao Nha Trang) đại diện cộng đồng doanh nghiệp công nghệ chia sẻ sự hào hứng trước những cơ hội và kỳ vọng của Luật; nhấn mạnh Khoản 5 Điều 29 về phát triển khoa học công nghệ, đổi mới sáng tạo, cơ chế thử nghiệm có kiểm soát (regulatory sandbox) và chính sách ưu đãi cho các ngành công nghệ chiến lược, với kỳ vọng Việt Nam và TP.HCM sẽ là nơi thương mại hóa sản phẩm công nghệ cao từ phòng lab ra thị trường.",
+        "highlightsEn": [
+          "Featured expert contribution from minute 11:00 in the televised broadcast on the Urban Development Law",
+          "Deep analysis on Clause 5 Article 29: Controlled regulatory sandboxes & sci-tech incentives",
+          "Vision to position HCMC and Vietnam as premier hubs for high-tech product commercialization",
+          "Representing the technology business community in bridging policy frameworks with market reality"
+        ],
+        "highlightsVi": [
+          "Xuất hiện đóng góp chuyên môn từ phút thứ 11 trong chương trình Luật Phát Triển Đô Thị",
+          "Phân tích sâu về Khoản 5 Điều 29: Phát triển KHCN, cơ chế thử nghiệm có kiểm soát (Sandbox)",
+          "Hiến kế đưa TP.HCM và Việt Nam trở thành trung tâm thương mại hóa sản phẩm công nghệ cao",
+          "Đại diện góc nhìn thực chiến của cộng đồng doanh nghiệp công nghệ trước khuôn khổ pháp lý mới"
+        ],
+        "articleUrl": "https://www.youtube.com/live/gPXndsELXvw?si=SgTTNQzKH1KXrKUF&t=660s",
+        "videoUrl": "https://www.youtube.com/live/gPXndsELXvw?si=SgTTNQzKH1KXrKUF&t=660s",
+        "pressSource": "Chương trình Luật Phát Triển Đô Thị",
+        "pressTitle": "Đóng góp ý kiến của ông Cao Nguyễn Nhật Triều (từ phút 11:00)",
+        "year": "2026",
+        "badge": "Luật Phát Triển Đô Thị | Phút 11:00"
+      },
+      {
+        "id": "dt-smart-health-kiosk",
+        "categoryEn": "National Digital Transformation",
+        "categoryVi": "Chuyển Đổi Số Quốc Gia",
+        "titleEn": "National Healthcare Digital Transformation: Smart Healthcare Kiosks & Citizen Experience",
+        "titleVi": "Dự án Chuyển đổi số Y tế: Kiosk y tế thông minh và Trải nghiệm người dân",
+        "summaryEn": "Participated as PMO & Regional Business Development Lead in the national deployment of 1,001+ Smart Healthcare Kiosks (under Government Scheme 06). Empowered citizens with seamless biometric check-in (chip-based Citizen ID), reduced outpatient registration queue times by over 70%, and enabled 100% cashless hospital fee payments.",
+        "summaryVi": "Tham gia với vai trò Quản lý PMO & Phát triển Kinh doanh Vùng trong dự án triển khai quy mô quốc gia 1.001+ Kiosk Y tế Thông minh (theo Đề án 06 Chính phủ). Nâng cao trải nghiệm khám chữa bệnh cho người dân: đăng ký khám bằng CCCD gắn chip sinh trắc học, rút ngắn hơn 70% thời gian chờ đợi và thanh toán viện phí không dùng tiền mặt an toàn, thông suốt.",
+        "highlightsEn": [
+          "National deployment of 1,001+ Smart Healthcare Kiosks nationwide under Government Scheme 06",
+          "Over 70% reduction in patient waiting and registration times across top-tier hospitals",
+          "Full integration with National Population Database & chip-based Citizen ID biometric authentication",
+          "Official recognition and press coverage by the Government Electronic Newspaper (BaoChinhPhu.vn)"
+        ],
+        "highlightsVi": [
+          "Triển khai thần tốc 1.001+ Kiosk Y tế Thông minh trên toàn quốc theo Đề án 06 Chính phủ",
+          "Rút ngắn hơn 70% thời gian đăng ký và chờ khám cho người dân tại các bệnh viện lớn",
+          "Tích hợp xác thực sinh trắc học thẻ CCCD gắn chip với Cơ sở dữ liệu Quốc gia về Dân cư",
+          "Được Báo Điện tử Chính phủ (BaoChinhPhu.vn) ghi nhận và đưa tin chính thức"
+        ],
+        "articleUrl": "https://baochinhphu.vn/hdbank-ngan-hang-dau-tien-dua-kiosk-y-te-thong-minh-vao-nang-cao-trai-nghiem-kham-chua-benh-cho-nguoi-dan-102250307164606244.htm",
+        "pressSource": "Báo Điện tử Chính phủ",
+        "pressTitle": "HDBank - Ngân hàng đầu tiên đưa kiosk y tế thông minh vào nâng cao trải nghiệm khám chữa bệnh cho người dân",
+        "year": "2024 – 2026",
+        "badge": "Đề án 06 Chính phủ"
+      },
+      {
+        "id": "dt-smart-education",
+        "categoryEn": "Education Digital Transformation",
+        "categoryVi": "Chuyển Đổi Số Giáo Dục",
+        "titleEn": "Education Digital Transformation: Advancing Educational Management & Cashless Digital Payments",
+        "titleVi": "Dự án: Chuyển đổi số giáo dục - đẩy mạnh hoạt động quản lý giáo dục và thanh toán lên giao dịch điện tử và số hóa",
+        "summaryEn": "Participated in the strategic deployment of Education Digital Transformation solutions, integrating digital financial ecosystems (Edupay / Smart Campus), digitizing academic management operations, and promoting 100% electronic and cashless tuition fee transactions across key economic regions.",
+        "summaryVi": "Tham gia phát triển và triển khai giải pháp Chuyển đổi số Giáo dục: kết nối hệ sinh thái tài chính số học đường (Edupay / Smart Campus), đẩy mạnh hoạt động quản lý giáo dục số hóa, chuẩn hóa giao dịch điện tử và thúc đẩy thanh toán học phí không dùng tiền mặt an toàn, minh bạch.",
+        "highlightsEn": [
+          "Connecting digital financial ecosystems & Edupay / Smart Campus across education institutions",
+          "Digitizing education management workflows and electronic transaction processing",
+          "Promoting 100% cashless, transparent, and seamless tuition payments",
+          "Official recognition and press coverage by Dong Nai Newspaper - Digital Transformation Section"
+        ],
+        "highlightsVi": [
+          "Kết nối hệ sinh thái tài chính số học đường & giải pháp Edupay / Smart Campus tại các cơ sở giáo dục",
+          "Đẩy mạnh số hóa quy trình quản lý giáo dục và giao dịch điện tử học đường",
+          "Thúc đẩy thanh toán học phí không dùng tiền mặt an toàn, nhanh chóng và minh bạch",
+          "Được Báo Đồng Nai (chuyên mục Chuyển đổi số) ghi nhận và đưa tin chính thức"
+        ],
+        "articleUrl": "https://baodongnai.com.vn/chuyen-doi-so/202606/ket-noi-he-sinh-thai-tai-chinh-so-8d44066/",
+        "pressSource": "Báo Đồng Nai - Chuyển đổi số",
+        "pressTitle": "Kết nối hệ sinh thái tài chính số",
+        "year": "2024 – 2026",
+        "badge": "Chuyển Đổi Số Giáo Dục"
+      },
+      {
+        "id": "dt-qualcomm-ontrak",
+        "categoryEn": "Global Tech Innovation",
+        "categoryVi": "Đổi Mới Sáng Tạo Quốc Tế",
+        "titleEn": "Nha Trang Hitech enters Qualcomm Challenges 2026 Finals with Ontrak Chainflow Ecosystem",
+        "titleVi": "Nha Trang Hitech vào Chung kết Qualcomm Challenges 2026 với hệ sinh thái Ontrak Chainflow",
+        "summaryEn": "Outstanding milestone at Qualcomm Vietnam Innovation Challenge 2026: Nha Trang Hitech advanced to the prestigious Finals with the groundbreaking Ontrak Chainflow ecosystem, pioneering edge AI, IoT, and high-tech industrial automation.",
+        "summaryVi": "Dấu ấn xuất sắc tại cuộc thi công nghệ toàn cầu Qualcomm Vietnam Innovation Challenge 2026: Nha Trang Hitech tiến vào Vòng Chung kết với hệ sinh thái công nghệ cao Ontrak Chainflow, tiên phong ứng dụng AI tại biên, IoT và tự động hóa công nghiệp.",
+        "highlightsEn": [
+          "Finalist in the prestigious Qualcomm Vietnam Innovation Challenge 2026",
+          "Ontrak Chainflow high-tech ecosystem integrating AI, IoT, and tracking automation",
+          "Demonstrated practical industrial readiness and cutting-edge innovation",
+          "Broadcasted and recognized on official video media coverage"
+        ],
+        "highlightsVi": [
+          "Vào Vòng Chung kết cuộc thi danh giá Qualcomm Vietnam Innovation Challenge 2026",
+          "Phát triển hệ sinh thái Ontrak Chainflow tích hợp AI, IoT và tự động hóa chuỗi cung ứng",
+          "Khẳng định năng lực đổi mới sáng tạo và tiềm năng thương mại hóa quốc tế",
+          "Được ghi nhận và truyền thông qua video phát sóng chính thức"
+        ],
+        "articleUrl": "https://www.facebook.com/reel/1411251914186357",
+        "pressSource": "Qualcomm Challenges / Video",
+        "pressTitle": "Nha Trang Hitech vào Chung kết Qualcomm Challenges 2026 với hệ sinh thái Ontrak Chainflow",
+        "year": "2026",
+        "badge": "Chung kết Qualcomm 2026"
+      },
+      {
+        "id": "dt-tca-nationwide-network",
+        "categoryEn": "Financial Network & Customer Protection",
+        "categoryVi": "Mạng Lưới Tài Chính & Bảo Vệ Khách Hàng",
+        "titleEn": "TCA: Nationwide Distribution Network Across 63 Provinces & Hundreds of Claim Support Centers",
+        "titleVi": "Thành tựu tại TCA: Phát triển mạng lưới rộng khắp 63 tỉnh thành trên toàn quốc & Hàng trăm Trung tâm Hỗ trợ Bồi thường",
+        "summaryEn": "Built and expanded a nationwide financial agency network across 63 provinces and cities with nearly 100 official representative offices. Spearheaded the establishment of hundreds of dedicated customer claim support centers to assist policyholders and promote transparent financial services.",
+        "summaryVi": "Phát triển mạng lưới rộng khắp 63 tỉnh thành trên toàn quốc với gần 100 văn phòng đại diện chính thức. Bên cạnh đó, hệ thống còn triển khai hàng trăm trung tâm hỗ trợ bồi thường chuyên nghiệp nhằm phục vụ và bảo vệ quyền lợi tối đa cho khách hàng.",
+        "highlightsEn": [
+          "Expanded financial agency network across all 63 provinces and cities in Vietnam",
+          "Scaled to nearly 100 official representative offices and branch locations",
+          "Deployed hundreds of dedicated Customer Claim Support Centers nationwide",
+          "Forged strategic distribution partnerships with leading insurers such as PVI Insurance",
+          "Featured by global business and governmental media (Doanh Nhân Toàn Cầu, PVN, Ninh Thuan TV)"
+        ],
+        "highlightsVi": [
+          "Phát triển mạng lưới rộng khắp 63 tỉnh thành trên toàn quốc",
+          "Quy mô gần 100 văn phòng đại diện chính thức hoạt động chuyên nghiệp",
+          "Triển khai hàng trăm trung tâm hỗ trợ bồi thường tận tâm phục vụ khách hàng",
+          "Hợp tác chiến lược toàn diện với các định chế bảo hiểm hàng đầu (Bảo hiểm PVI)",
+          "Được Doanh Nhân Toàn Cầu, Báo PVN, Đài PT-TH Ninh Thuận ghi nhận và đưa tin"
+        ],
+        "articleUrl": "https://doanhnhantoancau.net/tca-tung-bung-khai-truong-van-phong-moi.html",
+        "pressSource": "Doanh Nhân Toàn Cầu & Báo PVN",
+        "pressTitle": "TCA tưng bừng khai trương văn phòng mới & Hợp tác chiến lược bảo hiểm",
+        "year": "2014 – 2024",
+        "badge": "Mạng Lưới 63 Tỉnh Thành"
+      },
+      {
+        "id": "dt-h2y-vietnam-platform",
+        "categoryEn": "Platform Advisory & Commercial Setup",
+        "categoryVi": "Tư Vấn & Thiết Lập Nền Tảng",
+        "titleEn": "Establishment and Advisory for the H2Y Platform in Vietnam in Initial Stage",
+        "titleVi": "Thiết lập và tư vấn tạo dựng nền tảng H2Y tại Việt Nam thời gian đầu",
+        "summaryEn": "Advised and established the foundational commercial and digital ecosystem for the H2Y platform in Vietnam during its initial phase. Connected supply chain networks, digital commerce, and lifestyle/beauty technology exhibitions (such as Beauty Inside You 2023).",
+        "summaryVi": "Thiết lập và tư vấn tạo dựng nền tảng H2Y tại Việt Nam thời gian đầu: Xây dựng chiến lược phân phối, kết nối chuỗi cung ứng thương mại và chuỗi sự kiện xúc tiến thương mại công nghệ làm đẹp (tiêu biểu như Triển lãm Beauty Inside You 2023).",
+        "highlightsEn": [
+          "Strategic consulting and foundational architecture for H2Y platform in Vietnam",
+          "Bridged high-tech commercial distribution, cosmetics supply chain, and digital retail",
+          "Coordinated major experiential trade show \"Beauty Inside You 2023\"",
+          "Published and covered by Tien Phong Newspaper (TienPhong.vn)"
+        ],
+        "highlightsVi": [
+          "Tư vấn chiến lược và thiết lập nền tảng H2Y tại Việt Nam trong giai đoạn khởi tạo",
+          "Kết nối chuỗi cung ứng, thương mại điện tử và giải pháp phân phối ngành làm đẹp",
+          "Đồng hành tổ chức sự kiện triển lãm xúc tiến \"Beauty Inside You 2023\"",
+          "Được Báo Tiền Phong (TienPhong.vn) ghi nhận và đưa tin chính thống"
+        ],
+        "articleUrl": "https://tienphong.vn/beauty-inside-you-2023-trien-lam-my-pham-khoi-day-moi-giac-quan-post1521299.tpo",
+        "pressSource": "Báo Tiền Phong",
+        "pressTitle": "Beauty Inside You 2023: Triển lãm mỹ phẩm khơi dậy mọi giác quan & Nền tảng H2Y",
+        "year": "2023",
+        "badge": "Nền Tảng H2Y"
+      }
+    ],
+    "otherActivities": [
+      {
+        "en": "Active participation in social, community, and humanitarian initiatives.",
+        "vi": "Tham gia tích cực vào các hoạt động xã hội và thiện nguyện vì cộng đồng."
+      },
+      {
+        "en": "Connecting high-level networks (CEOs, industry leaders, Olympians).",
+        "vi": "Kết nối mạng lưới lãnh đạo cấp cao, chuyên gia, CEO và các tuyển thủ Olympic."
+      },
+      {
+        "en": "Consulting affiliate and interdisciplinary programs (Corporate Law, Technology, AI).",
+        "vi": "Cố vấn các chương trình liên kết đào tạo chuyên sâu (Luật Doanh nghiệp, Công nghệ, AI)."
+      },
+      {
+        "en": "Co-founder of the \"Economics Club\" for students and young entrepreneurs.",
+        "vi": "Đồng sáng lập \"Câu lạc bộ Kinh tế\" dành cho sinh viên và nhà khởi nghiệp trẻ."
+      },
+      {
+        "en": "Professional references available upon request.",
+        "vi": "Thông tin người tham chiếu sẽ được cung cấp đầy đủ khi có yêu cầu."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "so-du-tai-khoan-khong-noi-len-ban-giau-hay-ngheo",
+      "title": "Số dư tài khoản không nói lên bạn giàu hay nghèo",
+      "category": "Kinh tế",
+      "date": "30 Thg 09, 2026",
+      "excerpt": "Anh Tân đi xe mới, điện thoại đời mới nhất, nhưng mỗi tháng è cổ trả góp và tài sản ròng âm. Chị Mai đi xe máy cũ, không nợ một đồng và có sổ tiết kiệm dự phòng. Sự khác biệt nằm ở tài sản ròng, không phải số dư tài khoản ngày lương về.",
+      "content": "Có lần đi ăn đám cưới, tôi ngồi cùng bàn với anh Tân — dân kinh doanh, ăn mặc chỉn chu, đi xe mới, điện thoại đời mới nhất, kể chuyện làm ăn nghe rôm rả cả bàn. Ai cũng trầm trồ, có người còn hỏi nhỏ \"chắc giàu lắm hen\". Anh Tân cười xòa, không xác nhận cũng không phủ nhận, kiểu cười mà ai cũng tự hiểu là \"chắc vậy rồi\".\n\nSáu tháng sau tôi tình cờ gặp lại, nghe chuyện mới biết: cái xe đó đang trả góp, mỗi tháng è cổ gần một phần ba thu nhập. Cái điện thoại cũng trả góp nốt. Thẻ tín dụng xài tới hạn mức, tháng nào cũng đóng lãi tối thiểu. Tài khoản ngân hàng thì lúc có lúc không, có đợt lương về cái là trừ nợ gần hết, còn lại vài triệu sống cầm chừng tới tháng sau.\n\nNgồi cạnh anh Tân hôm đám cưới đó còn có chị Mai, làm kế toán cho một công ty nhỏ, lương không cao, đi chiếc xe máy cũ mèm, hôm đó mặc bộ đồ mua từ ba năm trước. Chẳng ai nghĩ chị \"giàu\" cả. Nhưng chị Mai không nợ ai một đồng, có một mảnh đất nhỏ ở quê đứng tên mình, và một khoản tiết kiệm đủ sống sáu tháng nếu công ty có sa thải ngày mai. Nhìn bề ngoài, chị Mai chẳng có gì để trầm trồ. Nhưng nếu hỏi ai đang \"giàu\" hơn theo đúng nghĩa — ai có nhiều lựa chọn hơn, ai ít phải lo sợ hơn khi có chuyện bất trắc xảy tới — thì câu trả lời không khó đoán.\n\n### Cái bẫy của vẻ ngoài: Thu nhập cao không đồng nghĩa với Giàu có\nĐây chính là cái bẫy lớn nhất khi người ta nhìn vào số dư tài khoản, hay tệ hơn là nhìn vào những thứ người khác đang sở hữu, để đoán xem ai giàu ai nghèo. Số dư trong tài khoản chỉ là một con số tại một thời điểm — nó không nói cho bạn biết đằng sau con số đó là bao nhiêu khoản nợ đang chờ tới hạn. Cái xe, cái điện thoại, căn nhà đang ở — toàn là những thứ có thể đang thuộc về ngân hàng nhiều hơn là thuộc về người đang sử dụng chúng.\n\nCái mà anh Tân có, gọi đúng tên, là thu nhập cao và lối sống theo kịp thu nhập đó — nhưng tài sản ròng, tức là lấy những gì anh sở hữu trừ đi những gì anh còn nợ, có khi lại là một con số âm. Cái mà chị Mai có là tài sản ròng dương, dù nhỏ, nhưng là của thật, không ai đòi lại được. Một người trông giàu nhưng đang gánh rủi ro rất lớn. Một người trông bình thường nhưng đang đứng vững hơn nhiều.\n\nChúng ta hay bị con số trong tài khoản, hay những món đồ phô ra bên ngoài, đánh lừa — kể cả tự đánh lừa chính mình. Tháng nào lương về, tài khoản đầy lên, người ta dễ có cảm giác \"mình đang khá lên\", rồi tự thưởng cho bản thân một món gì đó. Nhưng nếu tháng đó cũng là tháng phải trả góp, trả lãi, trả nợ bạn bè, thì cái cảm giác khá lên đó chỉ là ảo giác kéo dài đúng vài ngày đầu tháng, trước khi các khoản trừ tự động chạy vào.\n\n### Tài sản ròng: Thước đo thực sự của sự độc lập tài chính\nSự khác biệt thật sự không nằm ở việc bạn đang cầm bao nhiêu tiền trong tay lúc này, mà nằm ở hướng đi của toàn bộ bức tranh tài chính: mỗi tháng, tài sản ròng của bạn đang nhích lên hay đang lún xuống. Một người lương thấp nhưng tài sản ròng cứ nhích lên đều đặn mỗi năm, về lâu dài sẽ vượt xa một người lương cao nhưng tài sản ròng cứ lình xình quanh số không, hoặc tệ hơn là âm dần vì nợ chồng nợ.\n\nCũng đừng hiểu lầm rằng nợ nào cũng xấu. Nợ để mua một tài sản có khả năng sinh lời, hay để đầu tư vào thứ giúp bạn kiếm ra nhiều tiền hơn, là chuyện khác. Nhưng nợ để mua một chiếc xe mất giá dần theo từng năm, một chiếc điện thoại chỉ để chụp ảnh sang hơn, thì đó là nợ đang âm thầm kéo tài sản ròng của bạn đi xuống, trong khi tài khoản vẫn có tiền chảy qua chảy lại mỗi tháng, tạo cảm giác mọi thứ vẫn ổn.\n\n### Đừng để số dư tài khoản hôm nay đánh lừa bạn\nVậy làm sao để không bị chính con số trong tài khoản đánh lừa? Cách đơn giản nhất là, thay vì chỉ nhìn số dư, thử ngồi liệt kê một lần: mình đang sở hữu những gì có giá trị thật, và mình đang nợ những gì. Lấy cái trước trừ cái sau, ra một con số — đó mới là con số đáng để theo dõi mỗi tháng, chứ không phải số dư nhảy lên nhảy xuống theo ngày lương về hay ngày đóng tiền nhà.\n\nAnh Tân không phải người xấu, cũng không phải người dại. Anh chỉ đang nhìn nhầm chỗ — nhìn vào số dư và vẻ ngoài, thay vì nhìn vào tài sản ròng và hướng đi của nó. Chị Mai cũng chẳng có bí quyết gì cao siêu — chị chỉ đơn giản là không để những món đồ phô trương kéo tài sản ròng của mình đi xuống, dù thu nhập của chị thấp hơn nhiều.\n\nCuối tháng này, thử dành mười lăm phút ngồi tính thật: mình đang sở hữu bao nhiêu, đang nợ bao nhiêu, và con số chênh lệch đó so với sáu tháng trước đang tốt lên hay xấu đi. Đừng nhìn vào số dư tài khoản ngày hôm nay để đánh giá mình giàu hay nghèo — hãy nhìn vào cái hướng mà tài sản ròng của mình đang đi.\n\n---\n\n### 💡 5 Đúc kết then chốt (Executive Hooks)\n1. **Xe mới, điện thoại đời mới, ăn mặc chỉn chu — nhưng tài sản ròng của người đó có khi đang âm mà chẳng ai biết.**\n2. **Tài khoản đầy lên mỗi khi lương về chỉ là ảo giác, nếu vài ngày sau các khoản trả góp lại rút gần hết.**\n3. **Người lương thấp nhưng tài sản ròng nhích lên đều mỗi năm, cuối cùng sẽ vượt xa người lương cao nhưng nợ chồng nợ.**\n4. **Không phải nợ nào cũng xấu — nhưng nợ để mua thứ mất giá dần thì đang âm thầm kéo bạn đi xuống mỗi tháng.**\n5. **Đừng hỏi tài khoản có bao nhiêu tiền hôm nay. Hỏi tài sản ròng của mình đang đi lên hay đi xuống so với sáu tháng trước.**",
+      "readTime": "5 phút đọc",
+      "tags": [
+        "Finance",
+        "Operations",
+        "Business",
+        "Strategy"
+      ],
+      "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&w=1200&q=80",
+      "imageAlt": "Cao Nguyễn Nhật Triều - Quản trị tài chính cá nhân và tài sản ròng",
+      "author": "Cao Nguyễn Nhật Triều"
+    },
+    {
+      "id": "tai-sao-cang-ban-cang-ngheo",
+      "title": "Tại sao càng bận càng nghèo: Chiếc khăn bịt mắt của con lừa kéo cối xay",
+      "category": "Vận hành",
+      "date": "30 Thg 09, 2026",
+      "excerpt": "Con lừa bịt mắt đi mỏi chân cả ngày quanh cối xay, cuối ngày vẫn đứng nguyên chỗ cũ. Anh Long thợ giỏi tự làm mọi ca sửa xe, anh Hùng dạy học việc và nhân bản hệ thống. Bận rộn và tiến bộ là hai chuyện hoàn toàn khác nhau.",
+      "content": "Ngày xưa ở quê, nhà nào có cối xay bột bằng sức lừa kéo, người ta hay bịt mắt con lừa lại. Không phải để nó đỡ sợ, mà để nó khỏi... chóng mặt và bỏ chạy, vì nếu mở mắt ra nó sẽ thấy mình cứ đi vòng vòng quanh một cái trục, chẳng đi tới đâu cả. Bịt mắt vào, nó cứ ngỡ mình đang bước những bước dài trên một con đường thẳng tắp. Cả buổi trời, nó đi mỏi chân, đổ mồ hôi, thở hồng hộc — và cuối ngày vẫn đứng nguyên chỗ cũ, cách chỗ xuất phát đúng... nửa vòng cối xay.\n\nTôi kể chuyện con lừa này không phải để chê ai ngu, mà vì nó giống một cách đáng sợ với cách rất nhiều người đang \"kiếm sống\" mỗi ngày. Và để khỏi nói suông, tôi kể luôn một chuyện có thật ở gần khu tôi ở, chỉ đổi tên cho tiện.\n\nAnh Long mở tiệm sửa xe máy nhỏ, mặt tiền hai mét rưỡi. Anh giỏi nghề, tay nghề trong xóm ai cũng biết, khách tới sửa xe là anh đích thân xem máy, báo giá, sửa, chạy thử, rồi thu tiền — hết. Quán đông khách tới mức có hôm khách phải dắt xe đứng chờ ngoài lề đường. Anh Long làm việc từ bảy giờ sáng tới chín giờ tối, gần như không nghỉ trưa, vì nghỉ là mất khách. Ba năm sau, tiệm vẫn y như cũ: vẫn một mình anh, vẫn cái tủ đồ nghề đó, vẫn hai mét rưỡi mặt tiền đó. Thu nhập có nhỉnh hơn hồi mới mở đôi chút, nhưng sức khỏe thì đi xuống rõ rệt — lưng đau, đầu gối mỏi vì suốt ngày cúi lom khom bên gầm xe.\n\nCách đó không xa, anh Hùng cũng mở tiệm sửa xe, tay nghề nói thật không bằng anh Long. Nhưng ngay từ đầu, anh Hùng làm một việc rất khác: anh nhận hai đứa học việc, dạy tụi nó sửa những lỗi thường gặp — thay nhớt, vá vỏ, thay bố thắng — còn anh chỉ đứng ra xử lý những ca khó, kiểm tra chất lượng, và quan trọng nhất là lo phần khách hàng: chăm sóc, giữ mối, mở rộng mặt bằng. Ba năm sau, tiệm anh Hùng có ba người làm, anh gần như không còn tự tay vặn ốc nữa, chỉ đứng giám sát và tính toán. Hôm nào anh nghỉ đi đám cưới bạn, tiệm vẫn mở, vẫn có tiền vào. Thu nhập của anh, tính ra, gấp mấy lần anh Long — dù tay nghề sửa xe của anh, tôi dám chắc, không bằng anh Long.\n\n### Khác biệt cốt lõi: Tách thu nhập ra khỏi cơ thể\nKhác biệt giữa hai người không nằm ở chuyện ai chăm hơn — anh Long chăm hơn hẳn, làm việc nhiều giờ hơn hẳn, mệt hơn hẳn. Khác biệt nằm ở chỗ: thu nhập của anh Long dính chặt vào chính đôi tay và cái lưng của anh, còn thu nhập của anh Hùng đã tách ra khỏi cơ thể anh từ lúc anh quyết định nhận học việc đầu tiên. Anh Long là con lừa chăm chỉ nhất xóm, kéo cối xay từ sáng tới tối. Anh Hùng là người đứng cạnh cối xay, chỉ việc cho lừa đi đúng hướng.\n\nCái bẫy nằm ở chỗ: khi thu nhập của bạn gắn chặt với số giờ bạn bỏ ra, trần thu nhập của bạn chính là hai mươi bốn tiếng một ngày — thứ duy nhất trên đời không ai xin thêm được, dù giàu cỡ nào. Anh Long càng sửa nhiều xe, càng mệt, nhưng thu nhập tối đa vẫn bị khóa cứng bởi sức một con người và số giờ trong ngày. Anh Hùng thì khác — anh nhân bản chính mình ra thành ba đôi tay, nên thu nhập của anh không còn bị khóa bởi cơ thể của riêng anh nữa.\n\n### Cái bẫy giữa \"Bận rộn\" và \"Tiến bộ\"\nĐây chính là chỗ nhiều người nhầm lẫn giữa \"bận\" và \"tiến bộ\". Bận là bạn đang di chuyển, đang tốn sức, đang đổ mồ hôi — anh Long bận hơn anh Hùng rất nhiều. Tiến bộ là khoảng cách thực sự bạn đi được so với điểm xuất phát — và ở khoản này, anh Hùng đã bỏ xa anh Long từ lâu, dù ngày đầu mở tiệm cả hai đứng ngang nhau.\n\nĐiều đáng lo hơn nữa là: sự bận rộn, giống như cái khăn bịt mắt, khiến người ta không còn thời gian hay tâm trí để dừng lại tự hỏi liệu vòng quay này có đang dẫn mình tới đâu không. Anh Long không sai khi giỏi nghề, không sai khi chăm chỉ. Cái anh thiếu là một khoảnh khắc dừng lại, tháo khăn bịt mắt ra, để thấy rằng có một cách khác để vận hành cái tiệm hai mét rưỡi đó — không cần chính tay mình cầm cờ lê ở mọi ca sửa xe.\n\n### Làm sao để tháo chiếc khăn bịt mắt đó ra?\nKhông phải là bỏ việc, nghỉ ngơi vô thời hạn, chờ tiền tự nhiên rơi vào túi. Mà là bắt đầu để ý, trong tất cả những việc mình đang bận rộn mỗi ngày, việc nào đang gắn chặt thu nhập với đúng số giờ mình bỏ ra, và việc nào có thể tách dần ra khỏi thời gian cá nhân — một phần việc có thể dạy lại, một quy trình có thể ghi ra giấy cho người khác làm theo, một khách hàng có thể được chăm sóc bởi ai đó không phải là mình.\n\nKhông cần làm chuyện này một sớm một chiều — anh Hùng cũng mất cả năm mới dạy được hai đứa học việc làm đúng ý mình. Chỉ cần bắt đầu bằng một câu hỏi thành thật mỗi tuần: trong những việc mình vừa bận rộn, có việc nào, nếu làm thêm một lần nữa, sẽ mang lại thêm thu nhập mà không cần mình bỏ thêm y hệt số giờ đó không? Nếu câu trả lời toàn là không, có thể bạn đang là con lừa chăm chỉ nhất xóm — nhưng vẫn đang đứng nguyên chỗ cũ, chỉ khác là cái lưng ngày càng đau hơn.\n\nLàm ít hơn, theo đúng nghĩa mà nhiều người hiểu lầm, không phải là bớt cố gắng. Nó là ngừng nhầm lẫn giữa việc bị bịt mắt chạy vòng quanh, với việc thực sự đang tiến về phía trước. Anh Long hoàn toàn có thể trở thành anh Hùng, chỉ cần một ngày nào đó anh chịu buông cây cờ lê ra một chút, đứng lùi lại, và nhìn thẳng vào cái trục mình đang xoay quanh suốt ba năm qua.\n\n---\n\n### 💡 5 Đúc kết then chốt (Executive Hooks)\n1. **Con lừa kéo cối xay bận rộn cả ngày, đổ mồ hôi không ngừng — và cuối ngày vẫn đứng nguyên chỗ cũ.**\n2. **Hai tiệm sửa xe, cùng mở một ngày, ba năm sau một tiệm vẫn y nguyên, một tiệm có ba người làm — khác biệt không nằm ở tay nghề.**\n3. **Anh thợ giỏi nhất xóm chưa chắc là người giàu nhất xóm, nếu tay nghề đó chưa từng được tách khỏi chính đôi tay anh.**\n4. **Hễ cơ thể nghỉ là tiền nghỉ theo — đó là cái giá của việc để thu nhập dính chặt vào chính mình.**\n5. **Bận và tiến bộ là hai chuyện khác nhau. Một cái đo bằng mồ hôi, một cái đo bằng khoảng cách tới đích.**",
+      "readTime": "6 phút đọc",
+      "tags": [
+        "Operations",
+        "Leadership",
+        "Management",
+        "Startup"
+      ],
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+      "imageAlt": "Cao Nguyễn Nhật Triều - Năng suất vận hành và thoát khỏi cái bẫy bận rộn",
+      "author": "Cao Nguyễn Nhật Triều"
+    },
+    {
+      "id": "quy-luat-80-20-trong-doi-song-va-kinh-doanh",
+      "title": "Quy luật 80/20: Tủ quần áo, cuộc họp và bài toán tối ưu năng lượng",
+      "category": "Vận hành",
+      "date": "30 Thg 09, 2026",
+      "excerpt": "Tủ đồ đầy trăm món nhưng chỉ mặc vài bộ ruột. Họp hai tiếng nhưng quyết định chốt trong mười phút cuối. 20% khách hàng gánh 80% doanh thu. Làm ít hơn không phải lười đi, mà là dừng đối xử cào bằng với những thứ vốn không đóng góp như nhau.",
+      "content": "Mở tủ quần áo ra mà xem — đồ chất đầy chật cứng, có khi cả trăm món, vậy mà nhìn kỹ lại, ngày nào cũng chỉ lấy đúng vài bộ \"ruột\" ra mặc. Cái áo mua hồi Tết năm ngoái, giá không rẻ, mặc đúng một lần rồi treo đó tới giờ vẫn còn nguyên tem. Hóa ra tủ đồ đầy vậy, chứ chỉ hai chục phần trăm số đồ trong đó gánh tám chục phần trăm số lần bạn mặc ra đường.\n\nĐó chính là cái quy luật 80/20 — nghe có vẻ toán học khô khan, nhưng thật ra nó nằm ngay trong cái tủ quần áo, trong cuộc họp, trong sổ khách hàng của bất kỳ ai đang đi làm.\n\n### Từ chiếc tủ quần áo đến phòng họp hai tiếng\nNói tới họp hành thì càng rõ. Cả phòng ngồi họp hai tiếng đồng hồ, chiếu slide, bàn tới bàn lui, ai cũng phát biểu vài câu cho có. Nhưng nếu ngồi để ý kỹ, quyết định thật sự — cái điều khiến cuộc họp đó có ý nghĩa — thường chỉ chốt trong đúng mười phút cuối, lúc mọi người bắt đầu đói bụng, liếc đồng hồ, muốn về. Một trăm hai mươi phút, chỉ mười phút là \"ruột\", còn lại là phần đệm cho có không khí họp hành.\n\nChuyện làm ăn cũng chẳng khác. Danh sách khách hàng dài cả trang, nhưng ngồi tính lại doanh thu, thường chỉ một nhóm nhỏ khách quen, khách lớn là gánh phần lớn con số. Số còn lại tuy đông, nhưng gộp lại chưa chắc bằng nhóm nhỏ kia. Vậy mà thời gian, sự quan tâm, công sức chăm sóc lại hay bị chia đều — hoặc tệ hơn, dồn nhiều nhất cho những khách khó tính nhất, chứ không phải khách mang lại giá trị nhiều nhất.\n\n### Trong kinh doanh: Sai lầm của việc đối xử cào bằng\nCái sai phổ biến không phải là không biết quy luật này — ai cũng nghe qua 80/20 ít nhất một lần. Cái sai là biết rồi vẫn đối xử với mọi thứ như nhau: mọi bộ đồ trong tủ đều đáng giữ, mọi phút họp đều đáng ngồi nghe, mọi khách hàng đều đáng dồn sức chăm như nhau. Kết quả là năng lượng bị rải mỏng ra khắp nơi, thay vì dồn vào đúng hai chục phần trăm đang thật sự tạo ra giá trị.\n\nLàm ít hơn, theo đúng tinh thần 80/20, không phải là lười đi. Nó là dừng đối xử công bằng với những thứ vốn dĩ không đóng góp như nhau. Bộ đồ nào mặc hoài không đụng tới, cho hoặc bỏ đi cho nhẹ tủ. Phần họp nào chỉ để có không khí, rút ngắn lại hoặc bỏ luôn. Khách hàng nào chiếm nhiều thời gian nhất mà mang lại ít giá trị nhất, xem lại có đáng ưu tiên vậy không.\n\n### Thử nghiệm tối nay: Tìm ra 20% gánh 80% giá trị\nTối nay, thử chọn một thứ thôi — công việc, khách hàng, hay ngay cả cái tủ quần áo — và tìm cho ra hai chục phần trăm đang gánh tám chục phần trăm giá trị. Rồi dồn thêm một chút sự chú ý vào đúng chỗ đó. Không cần làm nhiều hơn. Chỉ cần làm đúng chỗ hơn.\n\n---\n\n### 💡 5 Đúc kết then chốt (Executive Hooks)\n1. **Tủ đồ chật cứng cả trăm món, nhưng ngày nào cũng chỉ mặc đúng vài bộ \"ruột\" — quy luật 80/20 nằm ngay trong tủ quần áo của bạn.**\n2. **Họp hai tiếng, nhưng quyết định thật sự chỉ chốt trong mười phút cuối, lúc ai cũng đói bụng muốn về.**\n3. **Không phải khách hàng nào cũng đáng được chăm như nhau — hai chục phần trăm trong sổ khách đang gánh tám chục phần trăm doanh thu.**\n4. **Biết quy luật 80/20 không khó. Khó là ngừng đối xử công bằng với những thứ vốn không đóng góp như nhau.**\n5. **Làm ít hơn không phải lười đi. Là ngừng rải đều sức lực cho những thứ chẳng mấy giá trị.**",
+      "readTime": "4 phút đọc",
+      "tags": [
+        "Operations",
+        "Business",
+        "Management",
+        "Strategy"
+      ],
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80",
+      "imageAlt": "Cao Nguyễn Nhật Triều - Quy luật 80/20 và bài toán tối ưu năng lượng",
+      "author": "Cao Nguyễn Nhật Triều"
+    },
+    {
+      "id": "leadership-cai-bay-cua-nguoi-dan-dat-gioi-viec",
+      "title": "Leadership: Cái bẫy của người dẫn dắt giỏi việc",
+      "category": "Lãnh đạo",
+      "date": "30 Thg 09, 2026",
+      "excerpt": "Kỹ năng giúp bạn được thăng chức và kỹ năng giúp bạn thành công ở vị trí mới gần như là hai thứ hoàn toàn khác nhau. Lãnh đạo không phải là người làm việc giỏi nhất trong phòng, mà là người khiến cả căn phòng làm việc giỏi hơn.",
+      "content": "Có một khoảnh khắc kỳ lạ xảy ra với gần như tất cả những ai được thăng chức vì họ giỏi việc: họ được giao thêm người, thêm quyền, thêm trách nhiệm — nhưng vẫn tiếp tục làm việc y hệt như trước, chỉ là làm nhiều hơn và mệt hơn.\n\nBạn từng là người giỏi nhất trong đội. Vì giỏi, bạn được đưa lên làm người dẫn dắt đội đó. Nhưng không ai nói cho bạn biết rằng kỹ năng giúp bạn được thăng chức và kỹ năng giúp bạn thành công ở vị trí mới gần như là hai thứ hoàn toàn khác nhau. Vậy nên bạn tiếp tục làm điều bạn giỏi nhất — tự tay xử lý mọi việc khó — trong khi đội của bạn đứng nhìn, chờ bạn quyết định, và dần dần không còn phát triển thêm nữa.\n\n### Cái bẫy lớn nhất: Gánh vác nhiều hơn thay vì Lãnh đạo\nĐây là cái bẫy lớn nhất của việc trở thành người dẫn dắt: bạn nghĩ mình đang có trách nhiệm hơn, nhưng thực chất bạn đang làm công việc của một nhân viên giỏi ở quy mô lớn hơn. Bạn không lãnh đạo. Bạn chỉ đang gánh vác nhiều hơn.\n\nLãnh đạo thực sự không phải là trở thành người làm việc giỏi nhất trong phòng. Nó là trở thành người khiến cả căn phòng làm việc giỏi hơn, kể cả khi bạn không có mặt ở đó. Đây là một sự chuyển dịch tư duy khó, vì nó đi ngược lại bản năng của những người có năng lực: bản năng muốn tự mình kiểm soát, tự mình chắc chắn mọi thứ đúng, tự mình chịu trách nhiệm cho từng chi tiết.\n\n### Nút thắt cổ chai và cái giá của việc \"làm thay\"\nNhưng mỗi lần bạn nhảy vào làm thay vì hướng dẫn người khác tự làm, bạn đang lấy đi một cơ hội để họ trưởng thành. Và bạn đang tự khóa mình vào vị trí là nút thắt duy nhất — nơi mọi quyết định, mọi vấn đề, mọi rủi ro đều phải đi qua bạn trước khi có thể tiến lên.\n\nĐiều đáng sợ hơn là điều này thường không được nhìn thấy ngay. Trong ngắn hạn, việc bạn tự làm có vẻ hiệu quả hơn — nhanh hơn, chắc chắn hơn, ít sai sót hơn. Nhưng về dài hạn, nó tạo ra một đội ngũ phụ thuộc hoàn toàn vào bạn, không có khả năng tự ra quyết định, và một người lãnh đạo kiệt sức vì gánh trên vai công việc của cả đội thay vì chỉ công việc của chính mình.\n\n### Lãnh đạo giỏi đặt đúng câu hỏi thay vì có sẵn mọi câu trả lời\nLãnh đạo giỏi không phải là người có câu trả lời cho mọi vấn đề. Đó là người đặt đúng câu hỏi để người khác tự tìm ra câu trả lời, rồi đủ can đảm để lùi lại và để họ thử — kể cả khi biết trước có thể họ sẽ vấp.\n\nSự vấp ngã đó, nếu được để xảy ra trong một môi trường an toàn, chính là nơi năng lực thực sự được xây dựng. Còn nếu bạn luôn can thiệp trước khi họ kịp vấp, bạn đang cứu lấy một kết quả ngắn hạn bằng cái giá của sự trưởng thành dài hạn của cả đội.\n\n### Câu hỏi phản tỉnh cho người dẫn dắt\nNếu bạn đang ở vị trí dẫn dắt người khác — dù là một đội nhỏ hay một tổ chức lớn — hãy tự hỏi mình một câu thành thật: trong tuần vừa rồi, có bao nhiêu việc bạn tự tay làm, mà lẽ ra nên là cơ hội để ai đó trong đội học cách tự làm?\n\nĐó không phải là câu hỏi để bạn cảm thấy tội lỗi. Đó là câu hỏi để bạn nhận ra chính xác nơi mình đang giữ đội ngũ lại, thay vì đẩy họ đi lên.\n\nNgười dẫn dắt giỏi nhất không phải là người không thể thiếu. Đó là người xây dựng được một đội ngũ đến mức, nếu họ vắng mặt một thời gian, mọi thứ vẫn tiếp tục vận hành tốt. Đó không phải là dấu hiệu bạn không quan trọng. Đó là dấu hiệu bạn đã làm đúng công việc của một người lãnh đạo.\n\n---\n\n### 💡 5 Đúc kết then chốt (Executive Hooks)\n1. **Kỹ năng giúp bạn được thăng chức và kỹ năng giúp bạn thành công ở vị trí mới là hai thứ hoàn toàn khác nhau.**\n2. **Lãnh đạo không phải là người giỏi nhất trong phòng. Đó là người khiến cả phòng giỏi hơn kể cả khi mình không có mặt.**\n3. **Mỗi lần bạn nhảy vào làm thay, bạn đang lấy đi một cơ hội để người khác trưởng thành.**\n4. **Người lãnh đạo giỏi không có câu trả lời cho mọi thứ. Họ đặt đúng câu hỏi để người khác tự tìm ra.**\n5. **Nếu bạn vắng mặt một tuần và mọi thứ vẫn chạy tốt — đó không phải dấu hiệu bạn không quan trọng, mà là dấu hiệu bạn đã lãnh đạo đúng.**",
+      "readTime": "5 phút đọc",
+      "tags": [
+        "Leadership",
+        "Management",
+        "Operations",
+        "Startup"
+      ],
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+      "imageAlt": "Cao Nguyễn Nhật Triều - Nghệ thuật dẫn dắt đội ngũ và năng lực lãnh đạo",
+      "author": "Cao Nguyễn Nhật Triều"
+    },
+    {
+      "id": "kinh-doanh-van-hanh-chuyen-ba-nau-co-tet",
+      "title": "Kinh doanh & Vận hành: Chuyện bà nấu cỗ Tết và cái bẫy ôm việc",
+      "category": "Vận hành",
+      "date": "30 Thg 09, 2026",
+      "excerpt": "Nhà ai có bà nấu cỗ Tết chắc từng thấy cảnh bà đứng bếp từ 5 giờ sáng, không cho ai đụng vào rồi than cực. Đi làm cũng y chang: bạn ôm hết việc vì sợ người khác làm sai, rồi tự biến mình thành \"làn đường duy nhất\" gây tắc nghẽn cả hệ thống.",
+      "content": "Nhà ai có bà, có mẹ nấu cỗ Tết chắc từng thấy cảnh này: bà đứng bếp từ 5 giờ sáng, tay xào tay kho, miệng vẫn không quên quát: \"Đứa nào đụng vào nồi thịt kho là hư hết đó nghen, để tao!\" Cả nhà ngồi chơi, bà một mình quần quật tới trưa, xong ngồi thở dốc than: \"Tao cực quá, có ai phụ được đâu.\"\n\nNhưng nếu để ý kỹ, chẳng ai không phụ được cả. Chỉ là bà không cho phụ. Vì bà sợ người khác làm không đúng ý, sợ nêm sai, sợ hỏng món. Nên rốt cuộc, cái \"cực\" đó là do bà tự chọn, chứ không phải do không có người.\n\nTôi kể chuyện này không phải để chê bà, vì thật ra phần lớn chúng ta đi làm cũng y chang vậy. Bạn giỏi một việc gì đó, nên dần dần bạn trở thành người duy nhất được tin tưởng làm việc đó. Ai giao cho người khác làm, bạn cũng thấy... không yên tâm. Thế là bạn ôm hết. Rồi cuối ngày mệt phờ, ngồi than: \"Sao việc gì cũng tới tay mình vậy trời.\"\n\nCâu trả lời thật ra hơi phũ: **vì bạn không cho ai làm thay bạn cả.**\n\n### Cái bẫy của \"Vận hành\": Khi bạn trở thành chiếc cổ chai\nĐây chính là cái bẫy của \"vận hành\". Nghe từ này có vẻ to tát, kiểu chỉ dành cho công ty lớn, có phòng ban đàng hoàng. Nhưng thật ra vận hành đơn giản chỉ là câu hỏi: việc này có nhất thiết phải qua tay mình không, hay là mình đang làm vì... quen tay rồi?\n\nCó một kiểu người rất hay gặp ở chỗ làm: người này cực kỳ giỏi, nhận việc gì cũng làm tốt, nên sếp giao thêm, đồng nghiệp đẩy qua, khách hàng cũng chỉ định đích danh. Nghe có vẻ là được trọng dụng, nhưng thật ra đang trở thành... cái cổ chai. Mọi việc dồn qua một người, người đó nghỉ phép một buổi là cả phòng rối tung như xe cộ dồn vào một làn đường trong giờ cao điểm, ai cũng bấm còi mà chẳng nhích được centimet nào.\n\nVấn đề không phải ở chỗ bạn làm được nhiều việc. Vấn đề là bạn có đang là \"làn đường duy nhất\" hay không. Nếu có, thì dù bạn có chăm tới đâu, hệ thống vẫn tắc, vì tắc không phải do thiếu người chạy nhanh, mà do có đúng một cái cổng cho tất cả đi qua.\n\n### Chuyển đổi tư duy: Từ \"Làm cho xong\" sang \"Thiết kế để việc tự chạy\"\nCách nghĩ khác đi một chút sẽ đỡ mệt hơn nhiều: thay vì hỏi \"làm sao để mình cân được nhiều việc hơn\", hãy hỏi \"việc này có cần đúng mình làm không, hay chỉ cần có người làm đúng cách là được\".\n\nNghe đơn giản vậy thôi nhưng đổi hẳn cách bạn sống một ngày:\n- **Người giỏi việc**: lo làm cho xong.\n- **Người giỏi vận hành**: lo làm sao việc được làm xong dù không có mình đứng cạnh nhắc từng chút.\n\nChuyện này không chỉ dành cho ai đang làm sếp. Ngay cả khi bạn chưa quản lý ai, cuộc sống của bạn vẫn đang được \"vận hành\" mỗi ngày — chỉ là bạn có đang thiết kế nó, hay đang để nó chạy bằng quán tính.\n\nNếu tuần nào bạn cũng bù đầu xử lý những việc y chang tuần trước, y chang tháng trước, thì đó không phải do bạn chưa đủ chăm. Đó là dấu hiệu bạn đang tự làm bà nội nấu cỗ Tết — không ai giành việc của bạn, chỉ là bạn chưa từng buông tay ra thử.\n\n### Bài tập nhỏ cho cuối tuần này\nCuối tuần này, thử làm một việc nhỏ:\n1. **Liệt kê ra ba việc** bạn cứ phải lặp đi lặp lại mỗi tuần.\n2. **Tự hỏi bản thân thật lòng**: cái nào trong đó thật sự cần chính tay mình, và cái nào chỉ đang tồn tại vì mình chưa từng để ai khác thử — hoặc chưa từng viết ra một quy trình rõ ràng để không phải nhớ lại từ đầu mỗi lần?\n\nLàm ít hơn không có nghĩa làm biếng hơn. Nó có nghĩa là bạn đủ tỉnh để nhận ra: **cực không phải vì việc nhiều, mà vì mình đang đứng ở chỗ không cần đứng.**",
+      "readTime": "4 phút đọc",
+      "tags": [
+        "Operations",
+        "Business",
+        "Management",
+        "Startup"
+      ],
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+      "imageAlt": "Cao Nguyễn Nhật Triều - Chiến lược tối ưu vận hành và kinh doanh hiệu quả",
+      "author": "Cao Nguyễn Nhật Triều"
+    },
+    {
+      "id": "ai-financial-markets",
+      "title": "Tác động của AI đối với thị trường tài chính toàn cầu",
+      "category": "Kinh tế",
+      "date": "15 Thg 10, 2024",
+      "excerpt": "Phân tích chuyên sâu về cách trí tuệ nhân tạo đang định hình lại các chiến lược đầu tư và quản lý rủi ro trong kỷ nguyên số.",
+      "content": "Trí tuệ nhân tạo (AI) và Học máy (Machine Learning) đang tái cấu trúc nền tảng của thị trường tài chính quốc tế. Từ giao dịch tần suất cao (HFT) dựa trên mạng nơ-ron sâu đến phân tích tâm lý thị trường thông qua xử lý ngôn ngữ tự nhiên (NLP), các tổ chức tài chính hàng đầu đang tận dụng dữ liệu lớn để đạt được lợi thế cạnh tranh vượt trội.\n\n### 1. Tự động hóa chiến lược định lượng và quản trị rủi ro\nCác thuật toán AI hiện đại có khả năng xử lý hàng triệu điểm dữ liệu thị trường theo thời gian thực, phát hiện các mẫu hình dị thường và tự động cân bằng danh mục đầu tư trong mili-giây.\n\n### 2. Dự báo kinh tế vi mô và vĩ mô\nViệc kết hợp dữ liệu truyền thống (báo cáo tài chính, chỉ số CPI) với dữ liệu phi cấu trúc (hình ảnh vệ tinh, xu hướng tìm kiếm, dữ liệu chuỗi cung ứng) mang lại độ chính xác chưa từng có trong dự báo chu kỳ kinh tế.\n\n### 3. Tương lai của Fintech tại Đông Nam Á\nKhu vực đang chứng kiến sự bùng nổ của các giải pháp WealthTech và Micro-investing, giúp phổ cập dịch vụ tài chính cá nhân hóa đến hàng triệu người dùng mới.",
+      "readTime": "6 phút đọc",
+      "tags": [
+        "Finance",
+        "AI",
+        "Startup"
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC0nfs-QE97ZSzPp1ePqwuJnL9Y8sYkh8kidQJAYCebU14EOYejcoy9MduTqZ6lBVKP_LVgLtpAESpHDLSokI62umBM_p5Cw1x36O4RItYPSxNB2V8zvzHD26W63AW2QrivLe6xQHlDODhloJjb7GASV5l3nmo50gpO12WWVwIJchubus92f_j_9aSfpEwwVzZnlpM_TY3QgTQ8KAo-3hH5Hf0RoSkHJen3B2MdR7CEfnTIYWCNQMaaDA",
+      "imageAlt": "AI and financial market analysis visualization",
+      "author": "Cao Nguyễn Nhật Triều"
+    },
+    {
+      "id": "edtech-personalized-learning-2025",
+      "title": "EdTech 2025: Xu hướng cá nhân hóa học tập",
+      "category": "Giáo dục",
+      "date": "12 Thg 10, 2024",
+      "excerpt": "Khám phá cách các nền tảng công nghệ giáo dục đang sử dụng dữ liệu để tạo ra trải nghiệm học tập độc bản cho từng cá nhân.",
+      "content": "Mô hình giáo dục \"one size fits all\" truyền thống đang nhanh chóng nhường chỗ cho các hệ sinh thái học tập thích ứng (Adaptive Learning). Nhờ công nghệ phân tích hành vi và trí tuệ nhân tạo, lộ trình học tập ngày nay được tùy biến đến từng học viên.\n\n### 1. Phân tích khoảng trống kiến thức (Knowledge Graph Mapping)\nBằng cách lập bản đồ kiến thức liên kết, hệ thống có thể xác định chính xác khái niệm nào học viên chưa nắm vững và tự động điều chỉnh tốc độ giảng dạy.\n\n### 2. Tương tác đa giác quan và trợ lý ảo AI\nHọc viên được hỗ trợ 24/7 bởi các gia sư AI được huấn luyện theo phương pháp Socratic, kích thích tư duy phản biện thay vì chỉ đưa ra câu trả lời trực tiếp.\n\n### 3. Đánh giá liên tục thay vì thi cử định kỳ\nDữ liệu tương tác hàng ngày thay thế các kỳ thi căng thẳng, mang lại cái nhìn toàn diện và thực chất hơn về sự tiến bộ của người học.",
+      "readTime": "5 phút đọc",
+      "tags": [
+        "EdTech",
+        "AI"
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAsEmMVJFAG636BcxL0dGCdSKYa9z7fySqWLI_3CNU85l4YoGEj6WGgTBq_1rJ082ajo_GQ-ULnxFe57OKxF1NgkF6OQ7Bt7Yp6nTolpEaTZm3d5YjDh3sk95MCgYML-TQvoadv0DTXLLgtZIjVms_E2ygKVGVedBOl7gu_BCTP06CCeHDWnbGhTTQYmnL9fx7Jxf91ZSkqQUaOK1jmvfFhAKPITWQxvnf6CZ6PPBUrqBzqPtMOOvzF3Q",
+      "imageAlt": "EdTech digital learning tablet and classroom setup",
+      "author": "Cao Nguyễn Nhật Triều"
+    },
+    {
+      "id": "microservices-enterprise-architecture",
+      "title": "Kiến trúc Microservices trong các ứng dụng Enterprise",
+      "category": "Công nghệ",
+      "date": "08 Thg 10, 2024",
+      "excerpt": "Hướng dẫn thực tế về việc chuyển đổi từ kiến trúc Monolithic sang Microservices để tăng tính linh hoạt và khả năng mở rộng.",
+      "content": "Trong môi trường doanh nghiệp quy mô lớn, việc duy trì một khối mã nguồn đơn lẻ (Monolith) thường dẫn đến sự chậm trễ trong chu kỳ phát hành và khó khăn khi mở rộng quy mô. Chuyển đổi sang Microservices là một quyết định chiến lược về kỹ thuật lẫn tổ chức.\n\n### 1. Phân rã theo Domain-Driven Design (DDD)\nXác định Bounded Contexts rõ ràng giữa các phân hệ: Xác thực, Thanh toán, Quản lý nội dung, và Phân tích dữ liệu.\n\n### 2. Giao tiếp bất đồng bộ với Event-Driven Architecture\nSử dụng Message Queues như Apache Kafka hoặc RabbitMQ để đảm bảo tính chịu lỗi cao và giảm thiểu phụ thuộc trực tiếp giữa các dịch vụ.\n\n### 3. Khả năng quan sát toàn diện (Observability)\nThiết lập hệ thống giám sát phân tán (Distributed Tracing, Metrics, Centralized Logging) với OpenTelemetry và Prometheus để nhanh chóng định vị sự cố.",
+      "readTime": "8 phút đọc",
+      "tags": [
+        "Startup",
+        "AI"
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBYAzrD5-xbj9Sc1eOInSQ2EGyDl9zLLebfwrtorvafkpuYHqTyz4eULJ8yvTbfGjBepTKe5c1xk2_GFOHfAjF5kDWiJypNTZtVE3bDKnlVcFwL7EvXKnsd5AMxRjeDrwYfOdVliFCKBdsquJ6tc1CCJtw7fklgHDgR4Ne3vq5KTL5X3m5zTDZGo7FEKNBnvGcJY0NQ_7THsPlOeHlWrEg_VX1aVR1FUfjTjYejZoLVhtDsjQ1q8JuVpw",
+      "imageAlt": "Enterprise microservices and software development",
+      "author": "Cao Nguyễn Nhật Triều"
+    },
+    {
+      "id": "circular-economy-models",
+      "title": "Mô hình kinh tế tuần hoàn trong bối cảnh mới",
+      "category": "Kinh tế",
+      "date": "05 Thg 10, 2024",
+      "excerpt": "Tại sao kinh tế tuần hoàn không chỉ là xu hướng bảo vệ môi trường mà còn là chiến lược tối ưu hóa lợi nhuận dài hạn.",
+      "content": "Kinh tế tuần hoàn (Circular Economy) đang chuyển mình từ một sáng kiến trách nhiệm xã hội (CSR) thành một trụ cột chiến lược quyết định hiệu quả tài chính và sức cạnh tranh bền vững của doanh nghiệp.\n\n### 1. Chuyển đổi mô hình kinh doanh sang PaaS (Product-as-a-Service)\nThay vì bán sản phẩm một lần, doanh nghiệp giữ quyền sở hữu và cung cấp dịch vụ sử dụng, khuyến khích thiết kế sản phẩm có tuổi thọ cao và dễ tái chế.\n\n### 2. Tối ưu hóa chuỗi cung ứng bằng IoT và AI\nTheo dõi vòng đời tài sản, dự đoán thời điểm bảo trì và quản lý chu trình thu hồi nguyên vật liệu với độ chính xác cao.\n\n### 3. Tiêu chuẩn ESG và lợi thế tiếp cận vốn\nCác quỹ đầu tư toàn cầu ngày càng ưu tiên phân bổ dòng vốn cho các doanh nghiệp có chiến lược kinh tế tuần hoàn minh bạch và có thể đo lường.",
+      "readTime": "6 phút đọc",
+      "tags": [
+        "Finance",
+        "Startup"
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAcHNpzGB820pzuoq2jIneP6_7-lUlv6J4ig5yXycNUvJkbWEVPsTnbOAmht3-_zqKYwvorbBdTsfz7bUb7I4wEGOHZj47lGZG5uKJsBerCmY7qMN1LTc_E4IJjekL-tky9ijVqynqLNgidIul5LgpXE-li_-OuBdKXDXjy4dFLkFSGa-3KyeqkdhzqvkFb1MESb8tNnAstTw6spEhYQn7m_NGIGmEFtWL8TxZ5YDG2Ckay5N0Q4JDISw",
+      "imageAlt": "Circular economy diagram and sustainable economic models",
+      "author": "Cao Nguyễn Nhật Triều"
+    },
+    {
+      "id": "fintech-trends-vietnam-2025",
+      "title": "Xu hướng thanh toán số và Fintech tại Việt Nam",
+      "category": "Kinh tế",
+      "date": "28 Thg 09, 2024",
+      "excerpt": "Đánh giá triển vọng của hệ sinh thái thanh toán không tiền mặt, ngân hàng mở (Open Banking) và chính sách quản lý thí điểm.",
+      "content": "Việt Nam đang dẫn đầu khu vực Đông Nam Á về tốc độ tăng trưởng thanh toán không dùng tiền mặt và số lượng người dùng ví điện tử. Bước tiến tiếp theo sẽ là sự liên thông toàn diện qua Open Banking và mã QR xuyên biên giới.",
+      "readTime": "4 phút đọc",
+      "tags": [
+        "Finance",
+        "Startup"
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDpj_SV1Ro3r0D--0-kXN9L-DV5eiPGXagqpe0SvyxCKNMLG4EPhDBOa9QotfnQxqRE8Eq9THRWmuHb_Tz9C1NCUk7M07Fwy2CjxEKDrXbBN2TM1aqOrDPNevYyM3qiFb8TuU-WeXOTub23rOII68XXld3LgMjITEDiOlDLZnCj6rtzwyYYFnf03ppgNF4jO00CFzgySjSrnIhGaTOHC-plm2b6tXa62GC3-TlyGXvhaX1Ad9M-H3MBVQ",
+      "imageAlt": "Digital payment and financial applications in Vietnam",
+      "author": "Cao Nguyễn Nhật Triều"
+    },
+    {
+      "id": "building-scalable-design-systems",
+      "title": "Xây dựng Design System quy chuẩn cho ứng dụng đa nền tảng",
+      "category": "Công nghệ",
+      "date": "20 Thg 09, 2024",
+      "excerpt": "Phương pháp thiết lập Design Tokens, hệ thống phân cấp màu sắc và component thư viện đồng nhất giữa Web và Mobile.",
+      "content": "Một Design System hoàn chỉnh không chỉ giúp tiết kiệm hàng trăm giờ lập trình mà còn đảm bảo trải nghiệm thương hiệu nhất quán trên mọi điểm chạm của người dùng.",
+      "readTime": "7 phút đọc",
+      "tags": [
+        "EdTech",
+        "AI"
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD66m0OaCiT0OO7UpZoJ9B6sH-7vNbexu5dnGWz_Rtjy7bR29PRgg8KcFWdWLSq5IzOca9FV9DzVxHTtWPGNLbttCSpieOfTCiIeT9YUUueV29pAmCULk0bTdB7aInkLP62oqG_dHIqs5XAdW0YtskYAkI0piy53I6NKn5ueDXnXRTD6Hy8tgl9MQ4pjryNWpV3x12gBJfxE9eO3tQWoaLj_JDPXjPU4-7JIjp4JfruLBXRht_7My5R7w",
+      "imageAlt": "Design system tokens and UI architecture",
+      "author": "Cao Nguyễn Nhật Triều"
+    }
+  ],
+  "projects": [
+    {
+      "id": "htv-tech-commercialization",
+      "title": "Đài Truyền hình HTV: Thúc đẩy doanh nghiệp công nghệ thương mại hóa sản phẩm",
+      "badge": "Đài Truyền Hình HTV",
+      "category": "Thương mại hóa & Công nghệ",
+      "excerpt": "Ông Cao Nguyễn Nhật Triều (Giám đốc điều hành Nha Trang Hitech) trao đổi trên sóng Đài Phát thanh và Truyền hình TP.HCM (HTV) về chiến lược thúc đẩy doanh nghiệp công nghệ thương mại hóa sản phẩm từ phòng R&D ra thị trường.",
+      "description": "Dấu ấn chuyên gia trên truyền hình: Ông Cao Nguyễn Nhật Triều, Giám đốc điều hành Công ty TNHH MTV Công Nghệ Cao Nha Trang (Nha Trang Hitech), có buổi trao đổi chuyên sâu trên sóng Đài Phát thanh và Truyền hình TP.HCM (HTV) về chủ đề \"Thúc đẩy doanh nghiệp công nghệ thương mại hóa sản phẩm\". Trong chương trình, ông Triều phân tích các lợi thế chiến lược của TP.HCM với lực lượng dân số trẻ, năng động và là trung tâm khoa học công nghệ đầu tàu cả nước, tạo nền tảng vững chắc để các doanh nghiệp đưa kết quả nghiên cứu khoa học từ phòng lab ra thị trường thực tiễn trong nước và vươn tầm quốc tế.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC0nfs-QE97ZSzPp1ePqwuJnL9Y8sYkh8kidQJAYCebU14EOYejcoy9MduTqZ6lBVKP_LVgLtpAESpHDLSokI62umBM_p5Cw1x36O4RItYPSxNB2V8zvzHD26W63AW2QrivLe6xQHlDODhloJjb7GASV5l3nmo50gpO12WWVwIJchubus92f_j_9aSfpEwwVzZnlpM_TY3QgTQ8KAo-3hH5Hf0RoSkHJen3B2MdR7CEfnTIYWCNQMaaDA",
+      "imageAlt": "Đài Truyền hình HTV: Thúc đẩy doanh nghiệp công nghệ thương mại hóa sản phẩm",
+      "techStack": [
+        "HTV Television",
+        "Tech Commercialization",
+        "R&D to Market",
+        "HCMC Tech Hub",
+        "Nha Trang Hitech"
+      ],
+      "highlights": [
+        "Được Đài Phát thanh và Truyền hình TP.HCM (HTV) phỏng vấn và đưa tin chuyên sâu",
+        "Chiến lược then chốt đưa sản phẩm công nghệ từ phòng thí nghiệm R&D ra thị trường thực tiễn",
+        "Khai phóng lợi thế nguồn nhân lực trẻ, năng động và hệ sinh thái công nghệ TP.HCM",
+        "Đồng hành cùng mục tiêu nâng cao tỷ lệ thương mại hóa kết quả nghiên cứu khoa học lên 8-10%"
+      ],
+      "metrics": [
+        {
+          "label": "Đài truyền hình",
+          "value": "HTV TP.HCM"
+        },
+        {
+          "label": "Trọng tâm",
+          "value": "Thương mại hóa"
+        },
+        {
+          "label": "Nguồn tin",
+          "value": "HTV.vn"
+        }
+      ],
+      "colSpan": "md:col-span-8",
+      "featured": true,
+      "articleUrl": "https://htv.vn/thuc-day-doanh-nghiep-cong-nghe-thuong-mai-hoa-san-pham-22226090516104883.htm",
+      "videoUrl": "https://www.youtube.com/watch?si=UJ3MoshsIuSK-RwE&v=y-_DxX8pUFQ&feature=youtu.be",
+      "pressSource": "Đài Truyền hình HTV",
+      "pressTitle": "Thúc đẩy doanh nghiệp công nghệ thương mại hóa sản phẩm"
+    },
+    {
+      "id": "urban-development-law-contribution",
+      "title": "Chương trình Luật Phát Triển Đô Thị: Đóng góp ý kiến & Hiến kế thương mại hóa công nghệ",
+      "badge": "Luật Phát Triển Đô Thị | Phút 11:00",
+      "category": "Chính sách & Thương mại hóa",
+      "excerpt": "Ông Cao Nguyễn Nhật Triều (Giám đốc điều hành Nha Trang Hitech) xuất hiện đóng góp ý kiến từ phút 11:00 trong chương trình Luật Phát Triển Đô Thị, nhấn mạnh cơ chế Sandbox Khoản 5 Điều 29 và đưa TP.HCM thành trung tâm thương mại hóa công nghệ cao.",
+      "description": "Đóng góp chính sách & góc nhìn chuyên gia: Trong chương trình phát sóng thảo luận chuyên sâu về \"Luật Phát Triển Đô Thị\" (xuất hiện từ phút 11:00), ông Cao Nguyễn Nhật Triều – Giám đốc điều hành Công ty TNHH MTV Công Nghệ Cao Nha Trang (Nha Trang Hitech) – đã có những phát biểu trọng tâm đại diện cho cộng đồng doanh nghiệp công nghệ. Ông nhấn mạnh kỳ vọng vào Khoản 5 Điều 29 dành cho phát triển khoa học công nghệ, đổi mới sáng tạo, cơ chế thử nghiệm có kiểm soát (regulatory sandbox) và chính sách ưu đãi các ngành công nghệ chiến lược; đề xuất giải pháp để Việt Nam và TP.HCM không chỉ là thị trường tiêu thụ mà trở thành trung tâm sáng tạo và thương mại hóa các sản phẩm công nghệ cao ra quốc tế.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC0nfs-QE97ZSzPp1ePqwuJnL9Y8sYkh8kidQJAYCebU14EOYejcoy9MduTqZ6lBVKP_LVgLtpAESpHDLSokI62umBM_p5Cw1x36O4RItYPSxNB2V8zvzHD26W63AW2QrivLe6xQHlDODhloJjb7GASV5l3nmo50gpO12WWVwIJchubus92f_j_9aSfpEwwVzZnlpM_TY3QgTQ8KAo-3hH5Hf0RoSkHJen3B2MdR7CEfnTIYWCNQMaaDA",
+      "imageAlt": "Ông Cao Nguyễn Nhật Triều đóng góp ý kiến trong chương trình Luật Phát Triển Đô Thị",
+      "techStack": [
+        "Luật Phát Triển Đô Thị",
+        "Khoản 5 Điều 29",
+        "Regulatory Sandbox",
+        "Tech Commercialization",
+        "Nha Trang Hitech"
+      ],
+      "highlights": [
+        "Xuất hiện đóng góp chuyên môn từ phút thứ 11:00 trong chương trình phát sóng Luật Phát Triển Đô Thị",
+        "Đại diện tiếng nói của cộng đồng doanh nghiệp công nghệ trước những cơ hội và kỳ vọng của khuôn khổ pháp lý mới",
+        "Phân tích chuyên sâu Khoản 5 Điều 29: Cơ chế thử nghiệm có kiểm soát (Sandbox) và chính sách ưu đãi công nghệ chiến lược",
+        "Định hướng phát triển TP. Hồ Chí Minh thành trung tâm thương mại hóa các sản phẩm công nghệ từ nghiên cứu R&D"
+      ],
+      "metrics": [
+        {
+          "label": "Chương trình",
+          "value": "Luật PT Đô Thị"
+        },
+        {
+          "label": "Mốc thời gian",
+          "value": "Từ phút 11:00"
+        },
+        {
+          "label": "Trọng tâm",
+          "value": "Sandbox & Đổi mới ST"
+        }
+      ],
+      "colSpan": "md:col-span-4",
+      "featured": true,
+      "articleUrl": "https://www.youtube.com/live/gPXndsELXvw?si=SgTTNQzKH1KXrKUF&t=660s",
+      "videoUrl": "https://www.youtube.com/live/gPXndsELXvw?si=SgTTNQzKH1KXrKUF&t=660s",
+      "pressSource": "Chương trình Luật Phát Triển Đô Thị",
+      "pressTitle": "Đóng góp ý kiến của ông Cao Nguyễn Nhật Triều (từ phút 11:00)"
+    },
+    {
+      "id": "smart-health-kiosk-hdbank",
+      "title": "Dự án Chuyển đổi số Y tế: Kiosk y tế thông minh và Trải nghiệm người dân",
+      "badge": "Chuyển Đổi Số Quốc Gia | Đề án 06",
+      "category": "Chuyển đổi số & Y tế",
+      "excerpt": "Tham gia dự án Chuyển đổi số quốc gia: Triển khai 1.001+ Kiosk y tế thông minh và nâng cao trải nghiệm khám chữa bệnh cho người dân (theo Đề án 06). Được đưa tin chính thức trên Báo Điện tử Chính phủ.",
+      "description": "Dự án trọng điểm quy mô quốc gia: Tham gia điều phối PMO và phát triển kinh doanh vùng triển khai 1.001+ Kiosk Y tế Thông minh toàn quốc theo Đề án 06 Chính phủ. Giải pháp tạo bước đột phá trong hành trình khám chữa bệnh: người dân chủ động đăng ký bằng CCCD gắn chip sinh trắc học, rút ngắn hơn 70% thời gian chờ đợi, thanh toán viện phí không dùng tiền mặt thông suốt và kết nối trực tiếp với Cơ sở dữ liệu Quốc gia về Dân cư.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDpj_SV1Ro3r0D--0-kXN9L-DV5eiPGXagqpe0SvyxCKNMLG4EPhDBOa9QotfnQxqRE8Eq9THRWmuHb_Tz9C1NCUk7M07Fwy2CjxEKDrXbBN2TM1aqOrDPNevYyM3qiFb8TuU-WeXOTub23rOII68XXld3LgMjITEDiOlDLZnCj6rtzwyYYFnf03ppgNF4jO00CFzgySjSrnIhGaTOHC-plm2b6tXa62GC3-TlyGXvhaX1Ad9M-H3MBVQ",
+      "imageAlt": "Dự án Chuyển đổi số Y tế: Kiosk y tế thông minh và Trải nghiệm người dân",
+      "techStack": [
+        "IoT Smart Kiosks",
+        "Biometric CCCD Chip Auth",
+        "Đề án 06 Integration",
+        "Cashless Hospital Pay",
+        "PMO Framework"
+      ],
+      "highlights": [
+        "Tham gia dự án Chuyển đổi số Quốc gia: Triển khai 1.001+ Kiosk Y tế Thông minh toàn quốc theo Đề án 06",
+        "Nâng cao toàn diện trải nghiệm khám chữa bệnh của người dân: xác thực sinh trắc CCCD, cắt giảm 70% thời gian chờ",
+        "Tích hợp giải pháp thanh toán viện phí không dùng tiền mặt và hệ sinh thái số Edupay / Smart Campus",
+        "Được Báo Điện tử Chính phủ (BaoChinhPhu.vn) ghi nhận và đưa tin chính thức"
+      ],
+      "metrics": [
+        {
+          "label": "Kiosk Y tế triển khai",
+          "value": "1,001+"
+        },
+        {
+          "label": "Cắt giảm thời gian chờ",
+          "value": "70%+"
+        },
+        {
+          "label": "Nguồn tin chính thống",
+          "value": "Báo Chính Phủ"
+        }
+      ],
+      "colSpan": "md:col-span-8",
+      "featured": true,
+      "articleUrl": "https://baochinhphu.vn/hdbank-ngan-hang-dau-tien-dua-kiosk-y-te-thong-minh-vao-nang-cao-trai-nghiem-kham-chua-benh-cho-nguoi-dan-102250307164606244.htm",
+      "pressSource": "Báo Điện tử Chính phủ",
+      "pressTitle": "HDBank - Ngân hàng đầu tiên đưa kiosk y tế thông minh vào nâng cao trải nghiệm khám chữa bệnh cho người dân"
+    },
+    {
+      "id": "smart-edu-digital-transformation",
+      "title": "Dự án: Chuyển đổi số giáo dục - đẩy mạnh hoạt động quản lý giáo dục và thanh toán lên giao dịch điện tử và số hóa",
+      "badge": "Chuyển Đổi Số Giáo Dục",
+      "category": "Chuyển đổi số & Tài chính số",
+      "excerpt": "Triển khai giải pháp chuyển đổi số giáo dục, kết nối hệ sinh thái tài chính số học đường (Edupay / Smart Campus), số hóa quản lý và thanh toán học phí không tiền mặt. Được đưa tin trên Báo Đồng Nai.",
+      "description": "Dự án chiến lược Chuyển đổi số Giáo dục: Triển khai tích hợp hệ sinh thái tài chính số học đường (Edupay / Smart Campus) tại các cơ sở giáo dục. Đẩy mạnh số hóa toàn diện hoạt động quản lý giáo dục, chuẩn hóa quy trình giao dịch điện tử, kết nối thanh toán học phí trực tuyến 100% an toàn và minh bạch cho nhà trường và phụ huynh.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCJamFXC06F0OqcMCKi1NBvVbIDzXF04x8fkCWD4K3qGdnZrJZPSwN4tIvCK6MolWd-Zs_ut5YjLZ2hH58sM2AINwQAmE0bHZyel9KVoX-NL1D4EZIl-nKMs_BPogsPMTOoy4GsoQjspHB453QdZ0U-nr5xKg7dqwAkdnWmKbKzC9mJy-VO6maoPD6t3cbBPfB-UX8q03WXPQxguxcqci_4ufFKFmmaXP3rGbRYBCFhpf2HoUkZCoyMLw",
+      "imageAlt": "Chuyển đổi số giáo dục và kết nối hệ sinh thái tài chính số",
+      "techStack": [
+        "Edupay Campus Gateway",
+        "Digital Banking APIs",
+        "School Management Systems",
+        "Cashless Tuition",
+        "E-Transactions"
+      ],
+      "highlights": [
+        "Kết nối hệ sinh thái tài chính số học đường Edupay / Smart Campus liên trường",
+        "Đẩy mạnh số hóa công tác quản lý giáo dục và quy trình giao dịch điện tử",
+        "Thúc đẩy thanh toán học phí không dùng tiền mặt 100% an toàn, minh bạch",
+        "Được Báo Đồng Nai (chuyên mục Chuyển đổi số) ghi nhận và đưa tin chính thức"
+      ],
+      "metrics": [
+        {
+          "label": "Hệ sinh thái",
+          "value": "Edupay / Campus"
+        },
+        {
+          "label": "Thanh toán không tiền mặt",
+          "value": "100% Số hóa"
+        },
+        {
+          "label": "Nguồn tin",
+          "value": "Báo Đồng Nai"
+        }
+      ],
+      "colSpan": "md:col-span-8",
+      "featured": true,
+      "articleUrl": "https://baodongnai.com.vn/chuyen-doi-so/202606/ket-noi-he-sinh-thai-tai-chinh-so-8d44066/",
+      "pressSource": "Báo Đồng Nai - Chuyển đổi số",
+      "pressTitle": "Kết nối hệ sinh thái tài chính số"
+    },
+    {
+      "id": "qualcomm-top-ai-solutions",
+      "title": "Nha Trang Hitech vào Chung kết Qualcomm Challenges 2026 với hệ sinh thái Ontrak Chainflow",
+      "badge": "Chung kết Qualcomm 2026",
+      "category": "Đổi mới sáng tạo & AI",
+      "excerpt": "Nha Trang Hitech xuất sắc tiến vào Vòng Chung kết cuộc thi danh giá toàn cầu Qualcomm Innovation Challenge 2026 với hệ sinh thái công nghệ cao Ontrak Chainflow.",
+      "description": "Thành tựu công nghệ quốc tế nổi bật: Nha Trang Hitech xuất sắc được vinh danh và tiến vào Vòng Chung kết cuộc thi danh giá Qualcomm Vietnam Innovation Challenge 2026 (QVIC) với hệ sinh thái công nghệ cao Ontrak Chainflow. Khẳng định năng lực đổi mới sáng tạo, phát triển giải pháp AI tại biên, tích hợp IoT và tự động hóa quy trình nghiệp vụ thực chiến cho doanh nghiệp.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC0nfs-QE97ZSzPp1ePqwuJnL9Y8sYkh8kidQJAYCebU14EOYejcoy9MduTqZ6lBVKP_LVgLtpAESpHDLSokI62umBM_p5Cw1x36O4RItYPSxNB2V8zvzHD26W63AW2QrivLe6xQHlDODhloJjb7GASV5l3nmo50gpO12WWVwIJchubus92f_j_9aSfpEwwVzZnlpM_TY3QgTQ8KAo-3hH5Hf0RoSkHJen3B2MdR7CEfnTIYWCNQMaaDA",
+      "imageAlt": "Nha Trang Hitech vào Chung kết Qualcomm Challenges 2026 với hệ sinh thái Ontrak Chainflow",
+      "techStack": [
+        "Ontrak Chainflow",
+        "Edge AI",
+        "IoT Ecosystem",
+        "Workflow Automation",
+        "Qualcomm Platforms"
+      ],
+      "highlights": [
+        "Vào Vòng Chung kết cuộc thi toàn cầu Qualcomm Vietnam Innovation Challenge 2026",
+        "Phát triển hệ sinh thái Ontrak Chainflow tích hợp AI, IoT & tự động hóa công nghiệp",
+        "Được truyền thông và ghi nhận qua video phát sóng chính thức"
+      ],
+      "metrics": [
+        {
+          "label": "Thành tựu",
+          "value": "Chung kết Qualcomm 2026"
+        },
+        {
+          "label": "Hệ sinh thái",
+          "value": "Ontrak Chainflow"
+        },
+        {
+          "label": "Nguồn tin",
+          "value": "Qualcomm Video"
+        }
+      ],
+      "colSpan": "md:col-span-8",
+      "featured": true,
+      "articleUrl": "https://www.facebook.com/reel/1411251914186357",
+      "pressSource": "Qualcomm Challenges / Video",
+      "pressTitle": "Nha Trang Hitech vào Chung kết Qualcomm Challenges 2026 với hệ sinh thái Ontrak Chainflow"
+    },
+    {
+      "id": "techcombank-advisors-network",
+      "title": "Thành tựu tại TCA: Phát triển mạng lưới 63 tỉnh thành & Hàng trăm Trung tâm Hỗ trợ Bồi thường",
+      "badge": "Mạng lưới 63 Tỉnh Thành",
+      "category": "Chiến lược & Hệ thống",
+      "excerpt": "Phát triển mạng lưới rộng khắp 63 tỉnh thành trên toàn quốc với gần 100 văn phòng đại diện chính thức và hàng trăm trung tâm hỗ trợ bồi thường phục vụ khách hàng.",
+      "description": "Thành tựu phát triển mạng lưới tài chính và bảo hiểm quy mô toàn quốc tại TC Advisors (TCA): Xây dựng và mở rộng hệ sinh thái kinh doanh rộng khắp 63 tỉnh thành với gần 100 văn phòng đại diện chính thức. Đồng thời, triển khai hàng trăm trung tâm hỗ trợ bồi thường chuyên nghiệp trên toàn quốc nhằm đồng hành, bảo vệ quyền lợi và nâng cao trải nghiệm cho khách hàng. Thiết lập các liên minh phân phối chiến lược với các định chế tài chính, bảo hiểm hàng đầu (Bảo hiểm PVI, Techcombank).",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBoLV7Sz_GogQx4KLhjqNPlLBXfb1lI4lJ-5-5Mtmn3XoPTiY2csMeoAMP-zXY0FG3v86ZTuEVScrw3iOGMeQBHT9N9me1bVaOwlrKpf7C6O8RUf82yJYOIHghq4us2t78Su_K0V3RlylEZTSL-OoiDagiIiMiK-tJlf6G5W-XFjVilNHnzWEhl_cVSK0Xl3g0-Jt-_a1ZNnBJiTe-sb5CN8NqHeiD_8cbA6FKxLmrjafUPZF8XU0eRtQ",
+      "imageAlt": "TCA Phát triển mạng lưới 63 tỉnh thành & Trung tâm hỗ trợ bồi thường",
+      "techStack": [
+        "TCA Network",
+        "Claim Support Centers",
+        "P&L Governance",
+        "PVI Partnership",
+        "Territory Scaling",
+        "Omnichannel Ops"
+      ],
+      "highlights": [
+        "Phát triển mạng lưới rộng khắp 63 tỉnh thành trên toàn quốc với gần 100 văn phòng đại diện chính thức",
+        "Triển khai hàng trăm trung tâm hỗ trợ bồi thường nhằm phục vụ và bảo vệ quyền lợi khách hàng",
+        "Ký kết thỏa thuận hợp tác và triển khai bảo hiểm chiến lược với Bảo hiểm PVI và đối tác định chế",
+        "Ghi nhận trên Doanh Nhân Toàn Cầu, Báo Điện tử Tập đoàn Dầu khí Việt Nam (PVN), Đài PT-TH Ninh Thuận"
+      ],
+      "metrics": [
+        {
+          "label": "Độ phủ toàn quốc",
+          "value": "63 tỉnh thành"
+        },
+        {
+          "label": "Văn phòng đại diện",
+          "value": "Gần 100 VP"
+        },
+        {
+          "label": "TT Hỗ trợ bồi thường",
+          "value": "Hàng trăm TT"
+        }
+      ],
+      "colSpan": "md:col-span-6",
+      "featured": true,
+      "articleUrl": "https://doanhnhantoancau.net/tca-tung-bung-khai-truong-van-phong-moi.html",
+      "pressSource": "Doanh Nhân Toàn Cầu & Báo PVN & NinhThuận TV",
+      "pressTitle": "TCA mở rộng mạng lưới 63 tỉnh thành & phát triển hàng trăm trung tâm hỗ trợ bồi thường",
+      "pressLinks": [
+        {
+          "source": "Doanh Nhân Toàn Cầu",
+          "title": "TCA tưng bừng khai trương văn phòng mới - Mở rộng quy mô mạng lưới",
+          "url": "https://doanhnhantoancau.net/tca-tung-bung-khai-truong-van-phong-moi.html"
+        },
+        {
+          "source": "Báo Điện tử Tập đoàn Dầu khí Việt Nam (PVN)",
+          "title": "Bảo hiểm PVI và TC Advisors ký thoả thuận hợp tác và triển khai bảo hiểm TNDS bắt buộc",
+          "url": "https://www.pvn.vn/bao-hiem-pvi-va-tc-advisors-ky-thoa-thuan-hop-tac-va-trien-khai-bao-hiem-trach-nhiem-dan-su-bat-buoc-9308"
+        },
+        {
+          "source": "Đài PT-TH Ninh Thuận",
+          "title": "Khai trương Trung tâm Hỗ trợ Bồi thường TCA Ninh Thuận",
+          "url": "https://ninhthuantv.vn/tin-tuc/khai-truong-trung-tam-ho-tro-boi-thuong-tca-ninh-thuan"
+        }
+      ]
+    },
+    {
+      "id": "h2y-vietnam-platform-advisory",
+      "title": "Thiết lập và tư vấn tạo dựng nền tảng H2Y tại Việt Nam thời gian đầu",
+      "badge": "Nền tảng H2Y",
+      "category": "Tư vấn & Nền tảng",
+      "excerpt": "Tư vấn chiến lược và thiết lập tạo dựng nền tảng H2Y tại Việt Nam giai đoạn đầu, kết nối chuỗi cung ứng, thương mại điện tử và sự kiện triển lãm xúc tiến thương mại Beauty Inside You.",
+      "description": "Thành tựu tư vấn và kiến tạo hệ sinh thái: Thiết lập và tư vấn tạo dựng nền tảng H2Y tại thị trường Việt Nam trong giai đoạn khởi tạo. Hoạch định mô hình phân phối đa kênh, tích hợp chuỗi cung ứng mỹ phẩm - làm đẹp công nghệ cao và đồng hành tổ chức triển lãm trải nghiệm quy mô lớn Beauty Inside You 2023.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCJamFXC06F0OqcMCKi1NBvVbIDzXF04x8fkCWD4K3qGdnZrJZPSwN4tIvCK6MolWd-Zs_ut5YjLZ2hH58sM2AINwQAmE0bHZyel9KVoX-NL1D4EZIl-nKMs_BPogsPMTOoy4GsoQjspHB453QdZ0U-nr5xKg7dqwAkdnWmKbKzC9mJy-VO6maoPD6t3cbBPfB-UX8q03WXPQxguxcqci_4ufFKFmmaXP3rGbRYBCFhpf2HoUkZCoyMLw",
+      "imageAlt": "Nền tảng H2Y tại Việt Nam và Triển lãm Beauty Inside You",
+      "techStack": [
+        "H2Y Platform",
+        "Commerce Advisory",
+        "Supply Chain",
+        "Distribution Strategy",
+        "Event Marketing"
+      ],
+      "highlights": [
+        "Thiết lập và tư vấn tạo dựng nền tảng H2Y tại Việt Nam thời gian đầu",
+        "Định hình mô hình phân phối và kết nối chuỗi cung ứng mỹ phẩm công nghệ cao",
+        "Đồng hành tổ chức sự kiện triển lãm xúc tiến thương mại Beauty Inside You 2023",
+        "Được Báo Tiền Phong (TienPhong.vn) đưa tin chính thống"
+      ],
+      "metrics": [
+        {
+          "label": "Giai đoạn",
+          "value": "Khởi tạo & Thiết lập"
+        },
+        {
+          "label": "Nền tảng",
+          "value": "H2Y Vietnam"
+        },
+        {
+          "label": "Nguồn tin",
+          "value": "Báo Tiền Phong"
+        }
+      ],
+      "colSpan": "md:col-span-6",
+      "featured": true,
+      "articleUrl": "https://tienphong.vn/beauty-inside-you-2023-trien-lam-my-pham-khoi-day-moi-giac-quan-post1521299.tpo",
+      "pressSource": "Báo Tiền Phong",
+      "pressTitle": "Beauty Inside You 2023: Triển lãm mỹ phẩm khơi dậy mọi giác quan & Nền tảng H2Y"
+    },
+    {
+      "id": "edumetrics-platform",
+      "title": "EduMetrics Analytics Platform",
+      "badge": "Web App",
+      "category": "Web Platform",
+      "excerpt": "A comprehensive data visualization tool designed for academic institutions to track student performance and curriculum efficacy.",
+      "description": "Nền tảng phân tích dữ liệu giáo dục toàn diện, cung cấp bảng điều khiển trực quan theo thời gian thực giúp ban giám hiệu và giảng viên theo dõi sát sao tiến độ học tập, tỷ lệ hoàn thành môn học và hiệu quả của các phương pháp giảng dạy mới.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCJamFXC06F0OqcMCKi1NBvVbIDzXF04x8fkCWD4K3qGdnZrJZPSwN4tIvCK6MolWd-Zs_ut5YjLZ2hH58sM2AINwQAmE0bHZyel9KVoX-NL1D4EZIl-nKMs_BPogsPMTOoy4GsoQjspHB453QdZ0U-nr5xKg7dqwAkdnWmKbKzC9mJy-VO6maoPD6t3cbBPfB-UX8q03WXPQxguxcqci_4ufFKFmmaXP3rGbRYBCFhpf2HoUkZCoyMLw",
+      "imageAlt": "EduMetrics Analytics Platform Dashboard Interface",
+      "techStack": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "D3.js / Recharts",
+        "REST APIs"
+      ],
+      "highlights": [
+        "Dashboard tương tác phân tích 50+ chỉ số học thuật",
+        "Thuật toán dự báo sớm sinh viên cần hỗ trợ học vụ",
+        "Khả năng trích xuất báo cáo tự động theo chuẩn kiểm định quốc tế"
+      ],
+      "metrics": [
+        {
+          "label": "Cơ sở giáo dục",
+          "value": "12+"
+        },
+        {
+          "label": "Người dùng hoạt động",
+          "value": "45,000+"
+        },
+        {
+          "label": "Độ chính xác dự báo",
+          "value": "94.8%"
+        }
+      ],
+      "colSpan": "md:col-span-6",
+      "featured": false
+    },
+    {
+      "id": "econlearn-mobile",
+      "title": "EconLearn Mobile",
+      "badge": "Mobile App",
+      "category": "App Product",
+      "excerpt": "Interactive learning modules for macroeconomics, optimized for on-the-go professionals.",
+      "description": "Ứng dụng học tập kinh tế vĩ mô di động dạng micro-learning, tối ưu hóa cho chuyên gia bận rộn với các bài giảng 5 phút, mô phỏng thị trường tương tác và câu đố ôn tập hàng ngày.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAb9BFbG1i_sQ_fhmdZH8UkIEvqS4zDdWm5xBE5EV1hed0SfDFxDyLnGOIrOMvelFjuflmJoEWHASMuAfAtfSs8zKPX0DhSHxXC9zBBwyFwCqA_gIZ-AyKzN4NHg7c43PeG12CZvMihz9IIeKEtr7OObTzyiBR1OUdoeCJDPdyQOXjeRkK-Yoi_Uu0op4y_4xYfSElcXB5k__zQDisWvw9NLmKczn5LtnqDGJk_Z1WaKSNoZD0i7dDCog",
+      "imageAlt": "EconLearn Mobile Application on Smartphone",
+      "techStack": [
+        "React Native",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Gamification Engine"
+      ],
+      "highlights": [
+        "Hơn 200 bài học kinh tế vĩ mô cô đọng",
+        "Mô phỏng chính sách tiền tệ và lạm phát trực quan",
+        "Đồng bộ hóa ngoại tuyến liền mạch"
+      ],
+      "metrics": [
+        {
+          "label": "Lượt tải",
+          "value": "25,000+"
+        },
+        {
+          "label": "Đánh giá App Store",
+          "value": "4.9 / 5.0"
+        },
+        {
+          "label": "Tỷ lệ hoàn thành khóa",
+          "value": "78%"
+        }
+      ],
+      "colSpan": "md:col-span-4",
+      "featured": true
+    },
+    {
+      "id": "fintech-analytics-dashboard",
+      "title": "FinTech Analytics Dashboard",
+      "badge": "App Product",
+      "category": "App Product",
+      "excerpt": "A comprehensive mobile application designed for real-time economic data visualization. Features include customizable charts, predictive modeling algorithms, and seamless integration with major financial APIs to empower professional decision-making.",
+      "description": "Giải pháp bảng điều khiển tài chính di động cao cấp cho các nhà đầu tư và nhà phân tích chiến lược. Tích hợp nguồn cấp dữ liệu thời gian thực, mô hình dự báo định lượng và giao diện tối ưu hóa cao cho các quyết định đầu tư quan trọng.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDpj_SV1Ro3r0D--0-kXN9L-DV5eiPGXagqpe0SvyxCKNMLG4EPhDBOa9QotfnQxqRE8Eq9THRWmuHb_Tz9C1NCUk7M07Fwy2CjxEKDrXbBN2TM1aqOrDPNevYyM3qiFb8TuU-WeXOTub23rOII68XXld3LgMjITEDiOlDLZnCj6rtzwyYYFnf03ppgNF4jO00CFzgySjSrnIhGaTOHC-plm2b6tXa62GC3-TlyGXvhaX1Ad9M-H3MBVQ",
+      "imageAlt": "FinTech Analytics Dashboard Mobile Application",
+      "techStack": [
+        "React Native",
+        "WebSockets",
+        "Chart.js",
+        "FinTech APIs",
+        "Tailwind"
+      ],
+      "highlights": [
+        "Real-time data synchronization",
+        "Customizable reporting modules",
+        "Bảo mật cấp ngân hàng với mã hóa 2 lớp"
+      ],
+      "metrics": [
+        {
+          "label": "Giao dịch giám sát",
+          "value": "$1.2B+"
+        },
+        {
+          "label": "Độ trễ truyền dữ liệu",
+          "value": "<50ms"
+        },
+        {
+          "label": "Khách hàng tổ chức",
+          "value": "30+"
+        }
+      ],
+      "colSpan": "md:col-span-8",
+      "featured": false
+    },
+    {
+      "id": "modern-economics-principles",
+      "title": "Modern Economics Principles",
+      "badge": "Educational Ebook",
+      "category": "Educational Ebook",
+      "excerpt": "An in-depth digital publication exploring contemporary economic theories through a modern, data-driven lens. Essential reading for professionals seeking strategic macro-insights.",
+      "description": "Ấn phẩm số chuyên khảo kết hợp lý thuyết kinh tế học hiện đại với bằng chứng thực nghiệm và các mô hình dữ liệu lớn. Tài liệu cần thiết cho các nhà quản lý, nhà hoạch định chính sách và sinh viên chuyên ngành.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2l-iRCAf0fdgEhVzpHb__iXTyHJO1yuFkMq46YafCDBgKH-zz1mO5h-YLJggkQ6pToGzEACnIxaQHLL0K2nMwfqgzJ_XGQTBEbffQnjP99l_xLtSnlJAekEVaJa14_3HCEvZQhYmnPmuF7DOCIXRhAEKpgFkeNOM1qOcEy9hCNM_fyO7jMGBSdKQBpBuQGFqNARti0YWeNPfWSe4zgtPjYpOtugfIKMREpKqjdddGqSR61vaU_iNweA",
+      "imageAlt": "Modern Economics Principles Digital Book Render",
+      "techStack": [
+        "Digital Publishing",
+        "LaTeX",
+        "Interactive Charts",
+        "PDF & ePub"
+      ],
+      "highlights": [
+        "12 chương lý thuyết và nghiên cứu điển hình thực tế",
+        "Tích hợp 40+ biểu đồ tương tác",
+        "Bộ câu hỏi thảo luận chiến lược cho doanh nghiệp"
+      ],
+      "metrics": [
+        {
+          "label": "Độc giả chuyên nghiệp",
+          "value": "5,000+"
+        },
+        {
+          "label": "Đại học áp dụng",
+          "value": "8"
+        },
+        {
+          "label": "Số trang chuyên sâu",
+          "value": "380"
+        }
+      ],
+      "colSpan": "md:col-span-4",
+      "featured": false
+    },
+    {
+      "id": "enterprise-consulting-hub",
+      "title": "Enterprise Consulting Hub",
+      "badge": "Web Platform",
+      "category": "Web Platform",
+      "excerpt": "A scalable web platform built for a premier consulting firm. Incorporates advanced scheduling systems, secure client portals, and dynamic content management structures optimized for high-value partner engagement.",
+      "description": "Cổng thông tin tư vấn doanh nghiệp tích hợp hệ thống đặt lịch tự động, cổng bảo mật dữ liệu khách hàng, trao đổi tài liệu số an toàn và báo cáo định kỳ tự động.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBoLV7Sz_GogQx4KLhjqNPlLBXfb1lI4lJ-5-5Mtmn3XoPTiY2csMeoAMP-zXY0FG3v86ZTuEVScrw3iOGMeQBHT9N9me1bVaOwlrKpf7C6O8RUf82yJYOIHghq4us2t78Su_K0V3RlylEZTSL-OoiDagiIiMiK-tJlf6G5W-XFjVilNHnzWEhl_cVSK0Xl3g0-Jt-_a1ZNnBJiTe-sb5CN8NqHeiD_8cbA6FKxLmrjafUPZF8XU0eRtQ",
+      "imageAlt": "Enterprise Consulting Hub Website on Laptop",
+      "techStack": [
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Tailwind CSS"
+      ],
+      "highlights": [
+        "Cổng thông tin đối tác bảo mật cao",
+        "Tự động hóa lịch tư vấn và hội nghị trực tuyến",
+        "Hệ thống quản lý hợp đồng điện tử thông minh"
+      ],
+      "metrics": [
+        {
+          "label": "Doanh nghiệp kết nối",
+          "value": "120+"
+        },
+        {
+          "label": "Thời gian tiết kiệm",
+          "value": "45%"
+        },
+        {
+          "label": "Uptime dịch vụ",
+          "value": "99.99%"
+        }
+      ],
+      "colSpan": "md:col-span-6",
+      "featured": false
+    },
+    {
+      "id": "modular-design-framework",
+      "title": "Modular Design Framework",
+      "badge": "System Architecture",
+      "category": "System Architecture",
+      "excerpt": "A robust, token-based design system architected to unify digital products across multiple platforms. Ensures brand consistency while accelerating development velocity for large-scale enterprise applications.",
+      "description": "Khung kiến trúc hệ thống thiết kế dạng mô-đun với Token thiết kế chuẩn, linh hoạt mở rộng cho các hệ thống phần mềm quy mô lớn của doanh nghiệp, giúp tăng tốc độ bàn giao tính năng lên đến 2.5 lần.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD66m0OaCiT0OO7UpZoJ9B6sH-7vNbexu5dnGWz_Rtjy7bR29PRgg8KcFWdWLSq5IzOca9FV9DzVxHTtWPGNLbttCSpieOfTCiIeT9YUUueV29pAmCULk0bTdB7aInkLP62oqG_dHIqs5XAdW0YtskYAkI0piy53I6NKn5ueDXnXRTD6Hy8tgl9MQ4pjryNWpV3x12gBJfxE9eO3tQWoaLj_JDPXjPU4-7JIjp4JfruLBXRht_7My5R7w",
+      "imageAlt": "Modular Design Framework and System Architecture",
+      "techStack": [
+        "Design Tokens",
+        "Storybook",
+        "Figma API",
+        "React Component Library",
+        "CI/CD"
+      ],
+      "highlights": [
+        "Bộ sưu tập 150+ thành phần UI tuân thủ WCAG AAA",
+        "Tự động đồng bộ hóa token từ Figma sang mã nguồn",
+        "Hỗ trợ chế độ đa chủ đề (Light/Dark/High Contrast)"
+      ],
+      "metrics": [
+        {
+          "label": "Dự án áp dụng",
+          "value": "24+"
+        },
+        {
+          "label": "Tăng tốc phát triển UI",
+          "value": "250%"
+        },
+        {
+          "label": "Lỗi giao diện giảm",
+          "value": "85%"
+        }
+      ],
+      "colSpan": "md:col-span-6",
+      "featured": false
+    }
+  ],
+  "products": [
+    {
+      "id": "sme-growth-strategy-consulting",
+      "title": "Gói Tư Vấn Chiến Lược & Tối Ưu Vận Hành Doanh Nghiệp (SME)",
+      "category": "Tư vấn",
+      "price": 199,
+      "description": "Chương trình tư vấn chuyên sâu 1-1 về hoạch định chiến lược kinh doanh, tối ưu hóa quy trình vận hành và cấu trúc tài chính.",
+      "fullDetails": "Dựa trên hơn 15 năm kinh nghiệm điều hành và 7+ năm tư vấn doanh nghiệp SME, chương trình cung cấp giải pháp toàn diện từ rà soát mô hình kinh doanh, tái thiết lập quy trình phân phối đa kênh, chuẩn hóa bảng chỉ số P&L/KPI đến xây dựng lộ trình chuyển đổi số thực chiến.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBoLV7Sz_GogQx4KLhjqNPlLBXfb1lI4lJ-5-5Mtmn3XoPTiY2csMeoAMP-zXY0FG3v86ZTuEVScrw3iOGMeQBHT9N9me1bVaOwlrKpf7C6O8RUf82yJYOIHghq4us2t78Su_K0V3RlylEZTSL-OoiDagiIiMiK-tJlf6G5W-XFjVilNHnzWEhl_cVSK0Xl3g0-Jt-_a1ZNnBJiTe-sb5CN8NqHeiD_8cbA6FKxLmrjafUPZF8XU0eRtQ",
+      "imageAlt": "SME Strategic Growth & Operational Consulting",
+      "rating": 5,
+      "features": [
+        "Đánh giá toàn diện hiện trạng tài chính, nhân sự và vận hành",
+        "Xây dựng mô hình phân phối đa kênh Online/Offline",
+        "Bộ công cụ quản trị P&L, KPI và ngân sách chuyên dụng",
+        "Đồng hành tư vấn trực tiếp 1-1 cùng chuyên gia Cao Nguyễn Nhật Triều"
+      ]
+    },
+    {
+      "id": "ai-foundations-prompt-design",
+      "title": "Khóa Đào Tạo AI Foundations & Prompt Design Cho Doanh Nghiệp",
+      "category": "Khóa học",
+      "price": 149,
+      "description": "Chương trình huấn luyện nâng cao năng suất tổ chức từ 3x - 5x bằng Generative AI, Kỹ thuật Prompt chuyên sâu và Tự động hóa.",
+      "fullDetails": "Giáo trình thực chiến được vinh danh trong TOP Qualcomm Challenges 2026. Học viên được trang bị tư duy ứng dụng AI toàn diện, thực hành xây dựng kịch bản prompt chuẩn xác, tích hợp công cụ AI vào báo cáo quản trị, phân tích thị trường và quản lý công việc hàng ngày.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC0nfs-QE97ZSzPp1ePqwuJnL9Y8sYkh8kidQJAYCebU14EOYejcoy9MduTqZ6lBVKP_LVgLtpAESpHDLSokI62umBM_p5Cw1x36O4RItYPSxNB2V8zvzHD26W63AW2QrivLe6xQHlDODhloJjb7GASV5l3nmo50gpO12WWVwIJchubus92f_j_9aSfpEwwVzZnlpM_TY3QgTQ8KAo-3hH5Hf0RoSkHJen3B2MdR7CEfnTIYWCNQMaaDA",
+      "imageAlt": "AI Foundations and Prompt Design Corporate Training",
+      "rating": 5,
+      "features": [
+        "20+ giờ bài giảng thực hành trực tiếp cùng bộ bài tập tình huống",
+        "Thư viện 100+ prompt templates chuẩn hóa cho Tài chính & Vận hành",
+        "Hướng dẫn tích hợp AI vào quy trình làm việc thực tế",
+        "Chứng nhận hoàn thành khóa đào tạo chuyên nghiệp"
+      ]
+    },
+    {
+      "id": "custom-ai-agents-workshop",
+      "title": "Khóa Huấn Luyện Xây Dựng AI Agent Trong Sản Xuất & Tài Chính",
+      "category": "Khóa học",
+      "price": 189,
+      "description": "Khóa đào tạo chuyên sâu xây dựng Custom AI Agent tự động hóa chuỗi quy trình vận hành sản xuất và phân tích tài chính.",
+      "fullDetails": "Thiết kế riêng cho cấp quản lý và chuyên viên công nghệ. Nội dung bao gồm kiến trúc Multi-Agent, tích hợp Retrieval-Augmented Generation (RAG), kết nối cơ sở dữ liệu nội bộ bảo mật và tự động hóa báo cáo phân tích rủi ro trong doanh nghiệp.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAsEmMVJFAG636BcxL0dGCdSKYa9z7fySqWLI_3CNU85l4YoGEj6WGgTBq_1rJ082ajo_GQ-ULnxFe57OKxF1NgkF6OQ7Bt7Yp6nTolpEaTZm3d5YjDh3sk95MCgYML-TQvoadv0DTXLLgtZIjVms_E2ygKVGVedBOl7gu_BCTP06CCeHDWnbGhTTQYmnL9fx7Jxf91ZSkqQUaOK1jmvfFhAKPITWQxvnf6CZ6PPBUrqBzqPtMOOvzF3Q",
+      "imageAlt": "Custom AI Agents Workshop for Manufacturing and Finance",
+      "rating": 4.9,
+      "features": [
+        "Xây dựng AI Agent xử lý dữ liệu sản xuất và tài chính thực tế",
+        "Tự động hóa luồng làm việc với LangChain, n8n và Python",
+        "Bảo mật dữ liệu doanh nghiệp và kiểm soát sai số",
+        "Kèm mã nguồn mẫu và tài liệu kiến trúc hệ thống"
+      ]
+    },
+    {
+      "id": "quantitative-finance-framework",
+      "title": "Bộ Khung Mô Hình Tài Chính Lượng Hóa & Kinh Tế Lượng (Excel & Python)",
+      "category": "Công cụ số",
+      "price": 49,
+      "description": "Bộ công cụ phân tích dữ liệu kinh tế vĩ mô, dự báo tài chính và mô hình hóa rủi ro chuẩn hóa cho nhà quản lý và nhà phân tích.",
+      "fullDetails": "Tổng hợp các mô hình kinh tế lượng và tài chính định lượng được tối ưu hóa qua nhiều năm nghiên cứu. Bao gồm mô hình dự báo chu kỳ kinh tế, phân tích chuỗi thời gian, ma trận quản trị rủi ro thanh khoản và bảng điều khiển trực quan hóa dữ liệu kinh doanh.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAYIYzU1kT2iP2D9H1eEacDv5L27YJFE2N2zHOP41RGROF8rxZR1jMWAEsnk0t55gQS4QexapBU2wuirG6E13IGaksVKMFljcqw3vuFn7uytAyaRL3qIxCY5lmj1lVG36xdS5bwMfpabjvV95YFoIi24bL3aDaXKklGBBBZBC6JTjiZWrhT898Gg5Py-jUvPfNa2Vp9Mwk1otYYYDDFJ5AlmPLJGxqpNdi4lCt2HYv8voClo_EuQ6sjSQ",
+      "imageAlt": "Quantitative Finance & Econometrics Framework",
+      "rating": 4.9,
+      "features": [
+        "15+ mẫu Excel mô hình tài chính động kèm công thức tự động",
+        "Notebook Python trích xuất và phân tích dữ liệu kinh tế vĩ mô",
+        "Hướng dẫn phương pháp luận định giá và kiểm định mô hình",
+        "Cập nhật dữ liệu định kỳ và hỗ trợ kỹ thuật"
+      ]
+    },
+    {
+      "id": "bancassurance-distribution-playbook",
+      "title": "Tài Liệu & Bộ Quy Trình Vận Hành Mạng Lưới Phân Phối Toàn Quốc",
+      "category": "Sách",
+      "price": 39,
+      "description": "Cẩm nang quản trị thực chiến đúc kết từ kinh nghiệm thiết lập 40+ VPĐD và 300+ điểm kết nối tài chính toàn quốc.",
+      "fullDetails": "Tài liệu chi tiết về chiến lược mở rộng mạng lưới, quy chế tổ chức và vận hành văn phòng đại diện, chính sách đãi ngộ và KPI đội ngũ bán hàng đa kênh, quản trị đấu thầu và kiểm soát rủi ro phân phối trong ngành tài chính bảo hiểm.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCi5iyQr27VrV5oH6_kCbrmdz8la4lr2HG_i88JXxEFJnXfu8dg_hyteNZIHfhOg_RdG_FXGcFfD5o-wqKg1818qgMkP9Xp_6EtCWQinPVl76cUCa0A9T7-a3BUa5GYcHL2CzFQg6n5BmerQ4xHkGYYM2QamXAvFL2nE1itrkOwrk7dL-cZfAtrUJeDj_yQ_1IrxsXVekJ6wrh-1h_eAHTjaYS2_gzMG72HW3JVHfrrktZRS6YoSMpXZQ",
+      "imageAlt": "Bancassurance & Territory Distribution Playbook",
+      "rating": 4.9,
+      "features": [
+        "Quy trình thành lập và vận hành mạng lưới văn phòng đại diện chuẩn",
+        "Khung chỉ số KPI, SLA và cơ chế động lực cho đội ngũ kinh doanh",
+        "Biểu mẫu quản lý ngân sách, mua sắm và tài sản cố định",
+        "Định dạng PDF/ePub chất lượng cao"
+      ]
+    },
+    {
+      "id": "edtech-ecosystem-digital-handbook",
+      "title": "Giáo Trình Chuyển Đổi Số Giáo Dục & Thiết Kế Hệ Sinh Thái EdTech",
+      "category": "Sách",
+      "price": 29,
+      "description": "Cẩm nang hướng dẫn chuyển đổi số giáo dục, xây dựng nền tảng học tập cá nhân hóa và quản trị dữ liệu trường học.",
+      "fullDetails": "Tài liệu tổng kết từ các dự án triển khai EdTech và Smart Campus. Cung cấp phương pháp tích hợp cổng thanh toán Edupay, xây dựng Knowledge Graph theo dõi năng lực học tập và ứng dụng trợ lý AI trong quản lý học tập.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBwlEkqniFFh1Jo-nNbH1rWEhTlSxip7ipd9qPiTGIUwGRBBCHKQrPTqanZ1StKA2RoA-AAasuaaCkooQP4zUu9YTv-BHS7zf9J8LLtP3d6Q6My5NeN4ZJqDDPEmKWyoJlXzg-WAzLJe27pxXYL8NsLouKmGNOOuxP_H-JyCtis2XiprEKQkDf3CF2K8mAoSNVKxuqRG1RhyG47um0JxXsbLw3gqMxH-Cn1WnIQFDdBow79hvmj5-US-w",
+      "imageAlt": "EdTech Digital Transformation Handbook",
+      "rating": 4.8,
+      "features": [
+        "Khung kiến trúc hệ sinh thái EdTech & Smart School hiện đại",
+        "Quy trình tích hợp thanh toán học phí không tiền mặt (Edupay)",
+        "Phương pháp luận cá nhân hóa trải nghiệm học tập",
+        "Nghiên cứu tình huống thực tiễn tại Việt Nam"
+      ]
+    },
+    {
+      "id": "xuat-nhap-khau-thuc-chien-40",
+      "title": "Ebook: Xuất Nhập Khẩu Thực Chiến 4.0",
+      "category": "Sách",
+      "price": 39,
+      "description": "Cẩm nang toàn diện: Từ Zero đến vận hành hệ thống chuyên nghiệp. Cập nhật 2024–2026: Incoterms® 2020, EVFTA/CPTPP/RCEP, Hải quan, Logistics, UCP 600 và AI thương mại số.",
+      "fullDetails": "Tài liệu thực chiến chuẩn hóa gồm 15 phần chuyên sâu dành cho người học, chuyên viên và lãnh đạo doanh nghiệp XNK. Nội dung bao gồm: Sơ đồ 13 bước End-to-End, Incoterms® 2020 (FOB, CIF, DDP, bẫy EXW), Quy trình xuất khẩu SOP & chứng từ B/L, Kiểm soát Landed Cost & bẫy Local Charges, Ma trận 27 loại biểu thuế & Hải quan Việt Nam (2024–2026), Tối ưu ưu đãi thuế quan EVFTA/CPTPP/RCEP & quy tắc xuất xứ C/O, Thanh toán quốc tế UCP 600 & rủi ro L/C Discrepancies, Vận tải quốc tế, Ứng dụng AI/e-BL trong thương mại số và bộ biểu mẫu hợp đồng ngoại thương song ngữ, Landed Cost Worksheet, KPI Dashboard cho CEO.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCi5iyQr27VrV5oH6_kCbrmdz8la4lr2HG_i88JXxEFJnXfu8dg_hyteNZIHfhOg_RdG_FXGcFfD5o-wqKg1818qgMkP9Xp_6EtCWQinPVl76cUCa0A9T7-a3BUa5GYcHL2CzFQg6n5BmerQ4xHkGYYM2QamXAvFL2nE1itrkOwrk7dL-cZfAtrUJeDj_yQ_1IrxsXVekJ6wrh-1h_eAHTjaYS2_gzMG72HW3JVHfrrktZRS6YoSMpXZQ",
+      "imageAlt": "Ebook Xuất Nhập Khẩu Thực Chiến 4.0 - Cẩm nang toàn diện",
+      "rating": 5,
+      "features": [
+        "Sơ đồ hệ thống 13 bước XNK End-to-End & phân tích điểm chạm rủi ro",
+        "Hướng dẫn Incoterms® 2020, SOP xuất khẩu, Landed Cost & bẫy Local Charges",
+        "Ma trận 27 loại biểu thuế, tra cứu HS Code & thủ tục hải quan 2024–2026",
+        "Tận dụng ưu đãi thuế quan EVFTA, CPTPP, RCEP & quy tắc xuất xứ C/O",
+        "Thanh toán quốc tế UCP 600, phòng ngừa rủi ro L/C Discrepancies & bộ biểu mẫu hợp đồng thực chiến"
+      ]
+    },
+    {
+      "id": "giao-trinh-dau-tu-chuan-quoc-te",
+      "title": "Giáo Trình: Đầu Tư Theo Chuẩn Quốc Tế",
+      "category": "Sách",
+      "price": 45,
+      "description": "Investment Textbook Following International Standards (Cập nhật 2026). Dành cho sinh viên Tài chính - Ngân hàng và nhà đầu tư chuyên nghiệp. Tuân thủ chuẩn CFA, GIPS, Basel III, IFRS & ESG.",
+      "fullDetails": "Ấn phẩm học thuật và thực hành chuyên sâu (133 trang A4) do tác giả Cao Nguyễn Nhật Triều biên soạn. Giáo trình bao gồm 8 chương lý thuyết chuyên sâu và 4 phụ lục chuyên đề, tích hợp 60+ công thức tài chính toán học, 15+ case study thực tế (FPT, Vinamilk, Vietcombank...), 30+ trích dẫn nghiên cứu khoa học quốc tế, 7 bài tập lớn có lời giải chi tiết và từ điển 80+ thuật ngữ Anh-Việt. Nội dung chuẩn hóa theo các tiêu chuẩn quốc tế hàng đầu: CFA Institute Standards, GIPS (Chuẩn mực hiệu quả đầu tư toàn cầu), Basel III (Chuẩn mực an toàn vốn ngân hàng), IFRS (Chuẩn mực báo cáo tài chính quốc tế) và Nguyên tắc ESG/Đầu tư bền vững.",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAYIYzU1kT2iP2D9H1eEacDv5L27YJFE2N2zHOP41RGROF8rxZR1jMWAEsnk0t55gQS4QexapBU2wuirG6E13IGaksVKMFljcqw3vuFn7uytAyaRL3qIxCY5lmj1lVG36xdS5bwMfpabjvV95YFoIi24bL3aDaXKklGBBBZBC6JTjiZWrhT898Gg5Py-jUvPfNa2Vp9Mwk1otYYYDDFJ5AlmPLJGxqpNdi4lCt2HYv8voClo_EuQ6sjSQ",
+      "imageAlt": "Giáo Trình Đầu Tư Theo Chuẩn Quốc Tế - Cao Nguyễn Nhật Triều",
+      "rating": 5,
+      "features": [
+        "8 chương lý thuyết chuyên sâu & 4 phụ lục chuyên đề (133 trang A4 chuẩn in ấn)",
+        "Tuân thủ chuẩn mực quốc tế: CFA Institute, GIPS, Basel III, IFRS, ESG Principles",
+        "60+ công thức định lượng (CAPM, MPT, Fama-French, Duration, DCF, DuPont 3-5 bước, VaR/CVaR)",
+        "15+ case study phân tích thực tế (FPT, Vinamilk, Vietcombank...) & 7 bài tập có lời giải chi tiết",
+        "Từ điển 80+ thuật ngữ chuyên ngành Anh - Việt & tóm tắt 10 nghiên cứu khoa học nền tảng"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "id": "inq-001",
+      "name": "Nguyễn Hoàng Nam",
+      "email": "nam.nguyen@vinasupply.vn",
+      "phone": "0908 123 456",
+      "service": "econ",
+      "serviceLabel": "Tư vấn Kinh tế & Tài chính",
+      "message": "Chúng tôi là doanh nghiệp sản xuất bao bì tại Bình Dương, muốn trao đổi với anh Triều về gói tư vấn tối ưu hóa quy trình vận hành và xây dựng AI Agent cho khối quản lý chất lượng.",
+      "createdAt": "2026-08-22 14:30",
+      "status": "new",
+      "notes": "Khách hàng tiềm năng cao - Đã kiểm tra hồ sơ công ty sản xuất bao bì",
+      "source": "contact_modal"
+    },
+    {
+      "id": "inq-002",
+      "name": "Trần Thị Mai Lan",
+      "email": "lan.tran@edufuture.edu.vn",
+      "phone": "0912 345 678",
+      "service": "edtech",
+      "serviceLabel": "Giải pháp Công nghệ Giáo dục (EdTech)",
+      "message": "Ban giám hiệu muốn mời thầy Triều tổ chức buổi Workshop đào tạo \"Ứng dụng AI và Prompt Engineering trong giảng dạy đại học\" cho 50 giảng viên vào tháng 9 tới.",
+      "createdAt": "2026-08-21 09:15",
+      "status": "contacted",
+      "notes": "Đã gửi email phản hồi và tài liệu khung chương trình đào tạo",
+      "source": "quick_fab"
+    },
+    {
+      "id": "inq-003",
+      "name": "Phạm Quốc Bảo",
+      "email": "bao.pham@fintechasia.io",
+      "phone": "0988 776 554",
+      "service": "tech",
+      "serviceLabel": "Kiến trúc Phần mềm & Tự động hóa",
+      "message": "Chúng tôi muốn tham vấn anh Triều về kinh nghiệm triển khai mạng lưới Kiosk thông minh kết nối ngân hàng và phương án xác thực căn cước công dân gắn chip.",
+      "createdAt": "2026-08-19 16:45",
+      "status": "in_progress",
+      "notes": "Đang thảo luận bản đề xuất giải pháp kỹ thuật và thời gian biểu",
+      "source": "contact_modal"
+    }
+  ],
+  "subscribers": [
+    {
+      "id": "sub-01",
+      "email": "executive.network@example.com",
+      "source": "homepage_newsletter",
+      "subscribedAt": "2026-09-06T09:59:55.872Z",
+      "active": true
+    },
+    {
+      "id": "sub-02",
+      "email": "partners@fintech-ventures.vn",
+      "source": "blog_reader",
+      "subscribedAt": "2026-09-10T09:59:55.872Z",
+      "active": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-2026-8801",
+      "customerName": "Hoàng Minh Tuấn",
+      "customerEmail": "tuan.hoang@investcorp.vn",
+      "customerPhone": "+84 908 123 456",
+      "items": [
+        {
+          "productId": "prod-01",
+          "title": "Bộ Khung Mẫu Hoạch Định Chiến Lược Doanh Nghiệp 2025-2030",
+          "price": 99,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 99,
+      "discountAmount": 0,
+      "total": 99,
+      "paymentMethod": "bank_transfer",
+      "paymentStatus": "completed",
+      "notes": "Đã hoàn tất xác nhận chuyển khoản ngân hàng.",
+      "createdAt": "2026-09-09T09:59:55.872Z",
+      "updatedAt": "2026-09-09T09:59:55.872Z"
+    }
+  ],
+  "accessCodes": [
+    {
+      "id": "code-vip-executive-2026",
+      "code": "VIP-EXECUTIVE-2026",
+      "description": "Mã đặc quyền VIP - Mở khóa toàn bộ tài nguyên số & Khóa học 100% miễn phí & Hồ sơ năng lực",
+      "type": "full_access",
+      "discountPercent": 100,
+      "scope": "all",
+      "validFrom": "2025-01-01",
+      "validUntil": "2026-12-31",
+      "hasExpiry": true,
+      "maxUsage": 50,
+      "usedCount": 3,
+      "permissions": [
+        "portfolio_unlock",
+        "full_download",
+        "priority_support",
+        "consulting_pass",
+        "lifetime_updates",
+        "confidential_blueprints"
+      ],
+      "isActive": true,
+      "assignedTo": "Đối tác chiến lược & Khách hàng Cố vấn Doanh nghiệp",
+      "createdAt": "2025-01-01T08:00:00.000Z",
+      "notes": "Mã cấp cho lãnh đạo đối tác, mở khóa 100% giá trị giỏ hàng, toàn quyền mở khóa Portfolio và tư vấn trực tiếp."
+    },
+    {
+      "id": "code-portfolio-dossier-2026",
+      "code": "PORTFOLIO-2026",
+      "description": "Mã cấp phép mở khóa & In ấn Hồ sơ Năng lực Chuyên gia (Dossier Access)",
+      "type": "special_privilege",
+      "discountPercent": 20,
+      "scope": "all",
+      "validFrom": "2025-01-01",
+      "validUntil": "2026-12-31",
+      "hasExpiry": true,
+      "maxUsage": 100,
+      "usedCount": 5,
+      "permissions": [
+        "portfolio_unlock",
+        "confidential_blueprints",
+        "priority_support"
+      ],
+      "isActive": true,
+      "assignedTo": "Nhà tuyển dụng, Hội đồng thẩm định & Đối tác phân tích",
+      "createdAt": "2025-01-01T08:00:00.000Z",
+      "notes": "Mã cấp phép xem toàn bộ chi tiết chỉ số và in ấn hồ sơ Portfolio."
+    },
+    {
+      "id": "code-corp-strategy-50",
+      "code": "CORP-STRATEGY-50",
+      "description": "Ưu đãi Doanh nghiệp 50% cho toàn bộ tài liệu và công cụ quản trị",
+      "type": "discount_percent",
+      "discountPercent": 50,
+      "scope": "all",
+      "validFrom": "2025-01-01",
+      "validUntil": "2026-12-31",
+      "hasExpiry": true,
+      "maxUsage": 100,
+      "usedCount": 14,
+      "permissions": [
+        "portfolio_unlock",
+        "full_download",
+        "priority_support",
+        "commercial_license"
+      ],
+      "isActive": true,
+      "assignedTo": "Cộng đồng Doanh nghiệp & Quản lý cấp cao",
+      "createdAt": "2025-02-01T08:00:00.000Z",
+      "notes": "Giảm 50% trên tổng giá trị đơn hàng, kèm quyền thương mại doanh nghiệp."
+    },
+    {
+      "id": "code-edtech-pro-25",
+      "code": "EDTECH-PRO-25",
+      "description": "Mã học bổng 25% dành riêng cho các khóa đào tạo & Sách chuyên khảo",
+      "type": "discount_percent",
+      "discountPercent": 25,
+      "scope": "courses",
+      "validFrom": "2025-01-01",
+      "validUntil": "2026-06-30",
+      "hasExpiry": true,
+      "maxUsage": 200,
+      "usedCount": 32,
+      "permissions": [
+        "full_download",
+        "lifetime_updates"
+      ],
+      "isActive": true,
+      "assignedTo": "Học viên & Giảng viên khối Giáo dục - Công nghệ",
+      "createdAt": "2025-02-15T08:00:00.000Z",
+      "notes": "Áp dụng cho danh mục Khóa học và Sách."
+    },
+    {
+      "id": "code-consulting-pass-2026",
+      "code": "STRATEGY-PASS-2026",
+      "description": "Quyền hạn Tham vấn 1-1 & Gói tài liệu kiến trúc độc quyền",
+      "type": "special_privilege",
+      "discountPercent": 20,
+      "scope": "all",
+      "validFrom": "2025-01-01",
+      "validUntil": "2027-01-01",
+      "hasExpiry": false,
+      "maxUsage": 30,
+      "usedCount": 7,
+      "permissions": [
+        "portfolio_unlock",
+        "consulting_pass",
+        "priority_support",
+        "confidential_blueprints"
+      ],
+      "isActive": true,
+      "assignedTo": "Khách hàng tư vấn doanh nghiệp 1-1",
+      "createdAt": "2025-03-01T08:00:00.000Z",
+      "notes": "Mã không giới hạn thời gian (Vĩnh viễn cho đến khi đủ số lượng 30 suất)."
+    }
+  ],
+  "seo": {
+    "title": "Cao Nguyễn Nhật Triều - Chiến lược, Vận hành, Giáo dục & Công nghệ",
+    "description": "Trang cá nhân chính thức của Cao Nguyễn Nhật Triều - Chuyên gia hoạch định chiến lược, tối ưu vận hành, giáo dục EdTech và kiến trúc công nghệ.",
+    "keywords": "Cao Nguyễn Nhật Triều, Hoạch định chiến lược, Tối ưu vận hành, Kinh tế lượng, EdTech, FinTech",
+    "author": "Cao Nguyễn Nhật Triều",
+    "geoRegion": "VN",
+    "geoPlaceName": "Ho Chi Minh City, Vietnam",
+    "ogImage": "/images/profile/GRU02101.JPG?v=3"
+  },
+  "blogCategories": [
+    "Tất cả",
+    "Kinh tế",
+    "Giáo dục",
+    "Công nghệ"
+  ],
+  "shopCategories": [
+    "Tất cả",
+    "Công cụ số",
+    "Khóa học",
+    "Sách"
+  ],
+  "updatedAt": "2026-09-25T15:13:37.558Z",
+  "promoBanner": {
+    "enabled": true,
+    "badge": "MỚI XUẤT BẢN",
+    "textVi": "Báo cáo Chiến lược AI & Chuyển đổi số Doanh nghiệp 2026 đã sẵn sàng!",
+    "textEn": "Special Executive Brief: AI & Enterprise Transformation 2026 is released!",
+    "ctaTextVi": "Khám Phá Ngay",
+    "ctaTextEn": "Read Now",
+    "targetTab": "blog",
+    "theme": "emerald"
+  },
+  "utmLinks": [
+    {
+      "id": "utm-001",
+      "title": "LinkedIn - Bài phân tích AI Tài chính Toàn cầu",
+      "targetUrl": "/?tab=blog&article=ai-financial-markets",
+      "channel": "linkedin",
+      "utmSource": "linkedin",
+      "utmMedium": "social_post",
+      "utmCampaign": "thought_leadership_q4",
+      "fullUrl": "/?tab=blog&article=ai-financial-markets&utm_source=linkedin&utm_medium=social_post&utm_campaign=thought_leadership_q4",
+      "clicksCount": 184,
+      "conversionsCount": 16,
+      "createdAt": "2026-09-06T11:13:35.310Z",
+      "notes": "Bài chia sẻ nhận định xu hướng Fintech & Algorithmic Trading"
+    },
+    {
+      "id": "utm-002",
+      "title": "Mã QR Hội Thảo - Kết nối Tư vấn 1-1",
+      "targetUrl": "/?tab=contact",
+      "channel": "qr_event",
+      "utmSource": "executive_summit",
+      "utmMedium": "qr_badge",
+      "utmCampaign": "hcmc_innovation_2026",
+      "fullUrl": "/?tab=contact&utm_source=executive_summit&utm_medium=qr_badge&utm_campaign=hcmc_innovation_2026",
+      "clicksCount": 312,
+      "conversionsCount": 42,
+      "createdAt": "2026-09-12T11:13:35.310Z",
+      "notes": "In trên tài liệu và danh thiếp hội thảo Tech & Innovation Summit"
+    },
+    {
+      "id": "utm-003",
+      "title": "Zalo Executive Channel - Portfolio Dự án Y tế",
+      "targetUrl": "/?tab=portfolio",
+      "channel": "zalo",
+      "utmSource": "zalo_oa",
+      "utmMedium": "broadcast",
+      "utmCampaign": "smart_kiosk_case_study",
+      "fullUrl": "/?tab=portfolio&utm_source=zalo_oa&utm_medium=broadcast&utm_campaign=smart_kiosk_case_study",
+      "clicksCount": 145,
+      "conversionsCount": 11,
+      "createdAt": "2026-09-16T11:13:35.310Z",
+      "notes": "Case study triển khai Kiosk y tế BV Nhi Đồng 1"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "camp-01",
+      "subject": "Bản tin Chiến lược Tháng 9: Tác động của AI đối với Mô hình Kinh doanh",
+      "previewText": "Tóm lược 3 chuyển dịch sống còn mà Hội đồng Quản trị cần định vị trong Q4/2026...",
+      "targetSegment": "all",
+      "contentMarkdown": "Kính gửi Quý đối tác và Độc giả,\n\nTrong bối cảnh công nghệ AI tăng tốc với cấp số nhân, bài viết mới nhất của tôi phân tích 3 trụ cột thiết yếu:\n1. Tái cấu trúc quy trình nội bộ bằng mô hình tự động hóa thông minh\n2. Quản trị rủi ro dữ liệu và an toàn thông tin\n3. Định lượng chỉ số ROI thực tế của các sáng kiến chuyển đổi số\n\nMời Quý vị đón đọc toàn văn trên website.\nTrân trọng,\nCao Nguyễn Nhật Triều",
+      "sentAt": "2026-09-13T11:13:35.310Z",
+      "status": "sent",
+      "recipientsCount": 146,
+      "openRateEstimated": 52.4,
+      "clickRateEstimated": 18.2
+    }
+  ],
+  "leadMagnets": [
+    {
+      "id": "lm-01",
+      "titleVi": "Sách Trắng: Khung Quản Trị Chuyển Đổi Số & Tối Ưu Chi Phí Vận Hành 2026",
+      "titleEn": "Whitepaper: Digital Transformation Governance & OpEx Optimization Framework 2026",
+      "descriptionVi": "Bộ cẩm nang thực chiến đúc kết phương pháp luận tinh gọn, kiến trúc microservices và kinh tế lượng ứng dụng cho doanh nghiệp.",
+      "descriptionEn": "Executive field manual detailing lean methodology, enterprise architecture and econometric strategy.",
+      "category": "Tài liệu Chiến lược",
+      "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBoLV7Sz_GogQx4KLhjqNPlLBXfb1lI4lJ-5-5Mtmn3XoPTiY2csMeoAMP-zXY0FG3v86ZTuEVScrw3iOGMeQBHT9N9me1bVaOwlrKpf7C6O8RUf82yJYOIHghq4us2t78Su_K0V3RlylEZTSL-OoiDagiIiMiK-tJlf6G5W-XFjVilNHnzWEhl_cVSK0Xl3g0-Jt-_a1ZNnBJiTe-sb5CN8NqHeiD_8cbA6FKxLmrjafUPZF8XU0eRtQ",
+      "downloadUrl": "#",
+      "gateType": "email_required",
+      "downloadsCount": 219,
+      "isActive": true
+    },
+    {
+      "id": "lm-02",
+      "titleVi": "Checklist 20 Tiêu Chí Sẵn Sàng Ứng Dụng AI Vào Doanh Nghiệp",
+      "titleEn": "Enterprise AI Readiness Checklist: 20 Crucial Criteria",
+      "descriptionVi": "Bảng đánh giá độc quyền giúp CEO & CTO lượng hóa mức độ sẵn sàng về dữ liệu, con người và hạ tầng.",
+      "descriptionEn": "Proprietary audit matrix to evaluate data, talent and infrastructure readiness.",
+      "category": "Checklist Thực chiến",
+      "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuC0nfs-QE97ZSzPp1ePqwuJnL9Y8sYkh8kidQJAYCebU14EOYejcoy9MduTqZ6lBVKP_LVgLtpAESpHDLSokI62umBM_p5Cw1x36O4RItYPSxNB2V8zvzHD26W63AW2QrivLe6xQHlDODhloJjb7GASV5l3nmo50gpO12WWVwIJchubus92f_j_9aSfpEwwVzZnlpM_TY3QgTQ8KAo-3hH5Hf0RoSkHJen3B2MdR7CEfnTIYWCNQMaaDA",
+      "downloadUrl": "#",
+      "gateType": "access_code_required",
+      "downloadsCount": 97,
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Cao Nguyễn Nhật Triều",
+  "description": "Trang thông tin chuyên nghiệp của Cao Nguyễn Nhật Triều - Chiến lược, Vận hành, Phát triển Bán hàng & Doanh nghiệp Nền tảng Đổi mới",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

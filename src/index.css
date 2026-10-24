@@ -1,0 +1,259 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-display: 'Montserrat', sans-serif;
+    --font-body: 'Hanken Grotesk', sans-serif;
+  }
+
+  body {
+    font-family: var(--font-body);
+    background-color: #f8f9ff;
+    color: #0b1c30;
+  }
+
+  h1, h2, h3, h4, h5, h6, .font-display {
+    font-family: var(--font-display);
+  }
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+.material-symbols-outlined.fill-1 {
+  font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(191, 201, 195, 0.45);
+}
+
+.tech-card-glass {
+  background: rgba(255, 255, 255, 0.84);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(191, 201, 195, 0.55);
+}
+
+@keyframes tech-scanline {
+  0% {
+    transform: translateY(-80px);
+  }
+  100% {
+    transform: translateY(105vh);
+  }
+}
+
+@keyframes tech-dash {
+  to {
+    stroke-dashoffset: -120;
+  }
+}
+
+.bento-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 24px;
+}
+
+/* =========================================
+   PRINT MEDIA QUERY - CLEAN ARTICLE FORMATTING
+   ========================================= */
+@media print {
+  @page {
+    margin: 15mm 15mm 20mm 15mm;
+    size: auto;
+  }
+
+  /* Force clean print color reproduction and readable contrast */
+  *,
+  *::before,
+  *::after {
+    background: transparent !important;
+    color: #111827 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    filter: none !important;
+  }
+
+  html,
+  body {
+    background-color: #ffffff !important;
+    color: #111827 !important;
+    font-size: 11pt !important;
+    line-height: 1.65 !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Hide interactive, navigation, and non-content elements */
+  nav,
+  header,
+  footer,
+  #main-footer,
+  #top-nav-bar,
+  #mobile-nav-menu,
+  .cart-drawer,
+  .search-modal,
+  .notice-modal,
+  .no-print,
+  .article-no-print,
+  aside,
+  button,
+  input,
+  form,
+  .newsletter-container,
+  #media-talks-section {
+    display: none !important;
+  }
+
+  /* Article Modal Print Format */
+  .article-modal-overlay,
+  .fixed.inset-0.z-50 {
+    position: static !important;
+    inset: auto !important;
+    background: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+    z-index: auto !important;
+  }
+
+  .article-modal-card,
+  .article-modal-overlay > div,
+  .fixed.inset-0.z-50 > div {
+    position: static !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    max-height: none !important;
+    height: auto !important;
+    overflow: visible !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Article Typography & Readability */
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+    break-after: avoid;
+    color: #000000 !important;
+    font-weight: 700 !important;
+  }
+
+  h1 {
+    font-size: 22pt !important;
+    line-height: 1.25 !important;
+    margin-bottom: 12pt !important;
+  }
+
+  h2 {
+    font-size: 16pt !important;
+    margin-top: 16pt !important;
+    margin-bottom: 8pt !important;
+  }
+
+  h3 {
+    font-size: 13pt !important;
+    margin-top: 12pt !important;
+    margin-bottom: 6pt !important;
+  }
+
+  p, li, blockquote {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* Lead Excerpt formatting */
+  .article-lead,
+  .italic.border-l-4 {
+    border-left: 3pt solid #111827 !important;
+    padding-left: 12pt !important;
+    margin: 14pt 0 !important;
+    font-style: italic !important;
+    font-size: 12pt !important;
+    color: #1f2937 !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Article Images */
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    display: block;
+    margin: 12pt auto !important;
+    border-radius: 4pt !important;
+  }
+
+  /* Article Metadata and Tags */
+  .article-meta {
+    border-bottom: 1pt solid #d1d5db !important;
+    padding-bottom: 8pt !important;
+    margin-bottom: 14pt !important;
+    font-size: 10pt !important;
+    color: #4b5563 !important;
+  }
+
+  .article-tags {
+    margin-top: 16pt !important;
+    padding-top: 8pt !important;
+    border-top: 1pt solid #e5e7eb !important;
+    font-size: 10pt !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Clean Article Body */
+  .article-body {
+    font-size: 11pt !important;
+    line-height: 1.7 !important;
+    color: #111827 !important;
+  }
+
+  /* Print link handling */
+  a {
+    text-decoration: underline !important;
+    color: #111827 !important;
+  }
+
+  a[href^="http"]:not([href*="javascript"])::after {
+    content: " (" attr(href) ")";
+    font-size: 8pt;
+    color: #6b7280 !important;
+    word-break: break-all;
+  }
+
+  /* Don't show URL for anchor hash or internal buttons */
+  a[href^="#"]::after,
+  a[href^="javascript:"]::after {
+    content: "";
+  }
+
+  /* =========================================
+     PORTFOLIO SECURITY PRINT LOCK ENFORCEMENT
+     ========================================= */
+  .portfolio-locked > section {
+    display: none !important;
+  }
+
+  .portfolio-locked .print-lock-notice {
+    display: block !important;
+  }
+}
+
